@@ -52,7 +52,7 @@ Include a chip if it has been fabricated and is either available for sale, avail
 
 Name | Supplier | Core | ISA | Devkit | Availability | Links
 ---- | -------- | ---- | --- | ------ | ------------ | -----
-FE310-G000 | SiFive | E31 | RV32IMAC | HiFive1 Arduino board | public since 2016Q4 | [Datasheet](https://static.dev.sifive.com/FE310-G000.pdf)
+FE310-G000 | SiFive | E31 | RV32IMAC | HiFive1 | public since 2016Q4 | [Datasheet](https://static.dev.sifive.com/FE310-G000.pdf)
 FE310-G002 | SiFive | E31 | RV32IMAC | HiFive1 Rev B | announced 2019Q1, available for preorder | [Product page](https://www.sifive.com/boards/hifive1) 
 Freedom U540 | SiFive | U54 (4 cores), E51 (1 management core) | RV64GC (application cores), RV64IMAC (management core) | HiFive Unleashed development board | public since 2018Q1 | [Product page](https://www.sifive.com/products/hifive-unleashed/)
 GAP8 | GreenWaves Technologies | PULP / 1 + 8 RI5CY | RV32IMC (+ Priviledged and custom ISA extensions) | GAPuino development board | public since 2018Q1 | [Product page](https://greenwaves-technologies.com/en/gap8-product/)
