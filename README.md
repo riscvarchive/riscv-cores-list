@@ -16,6 +16,7 @@ RI5CY | [GitHub](https://github.com/pulp-platform/riscv) |  | RV32IMC | Solderpa
 Zero-riscy | [GitHub](https://github.com/pulp-platform/zero-riscy) |  | RV32IMC | Solderpad Hardware License v. 0.51 | ETH Zurich, Università di Bologna
 Ariane | [Website](https://pulp-platform.github.io/ariane/docs/home/),[GitHub](https://github.com/pulp-platform/ariane) |  | RV64IMC | Solderpad Hardware License v. 0.51 | ETH Zurich, Università di Bologna
 Riscy Processors | [Website](http://csg.csail.mit.edu/riscy-e/),[GitHub](https://github.com/csail-csg/riscy) |  | | MIT | MIT CSAIL CSG
+RiscyOO | [GitHub](https://github.com/csail-csg/riscy-OOO) | 1.10 | RV64IMAFD | MIT | MIT CSAIL CSG
 Minerva | [GitHub](https://github.com/lambdaconcept/minerva) | 1.10 | RV32I | BSD | LambdaConcept
 OPenV/mriscv | [GitHub](https://github.com/onchipuis/mriscv) |  | RV32I(?) | MIT | OnChipUIS
 VexRiscv | [GitHub](https://github.com/SpinalHDL/VexRiscv) |  | RV32I[M][C] | MIT | SpinalHDL
