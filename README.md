@@ -53,10 +53,10 @@ Include a chip if it has been fabricated and is either available for sale, avail
 
 Name | Supplier | Core | ISA | Devkit | Availability | Links
 ---- | -------- | ---- | --- | ------ | ------------ | -----
-FE310-G000 | SiFive | E31 | RV32IMAC | HiFive1 | public since 2016Q4 | [Datasheet](https://static.dev.sifive.com/FE310-G000.pdf)
-FE310-G002 | SiFive | E31 | RV32IMAC | HiFive1 Rev B | announced 2019Q1, available for preorder | [Product page](https://www.sifive.com/boards/hifive1) 
-Freedom U540 | SiFive | U54 (4 cores), E51 (1 management core) | RV64GC (application cores), RV64IMAC (management core) | HiFive Unleashed development board | public since 2018Q1 | [Product page](https://www.sifive.com/products/hifive-unleashed/)
-GAP8 | GreenWaves Technologies | PULP / 1 + 8 RI5CY | RV32IMC (+ Priviledged and custom ISA extensions) | GAPuino development board | public since 2018Q1 | [Product page](https://greenwaves-technologies.com/en/gap8-product/)
+FE310-G000 | SiFive | E31 | RV32IMAC | [HiFive1](https://www.sifive.com/boards/hifive1) | public since 2016Q4 | [Datasheet](https://static.dev.sifive.com/FE310-G000.pdf)
+FE310-G002 | SiFive | E31 | RV32IMAC | [HiFive1 Rev B](https://www.sifive.com/boards/hifive1-rev-b) | announced 2019Q1, available for preorder | [Product page](https://www.sifive.com/boards/hifive1) 
+Freedom U540 | SiFive | U54 (4 cores), E51 (1 management core) | RV64GC (application cores), RV64IMAC (management core) | [HiFive Unleashed development board](https://www.sifive.com/boards/hifive-unleashed) | public since 2018Q1 | [Product page](https://www.sifive.com/products/hifive-unleashed/)
+GAP8 | GreenWaves Technologies | PULP / 1 + 8 RI5CY | RV32IMC (+ Priviledged and custom ISA extensions) | [GAPuino development board](https://greenwaves-technologies.com/product/gapuino/) | public since 2018Q1 | [Product page](https://greenwaves-technologies.com/en/gap8-product/)
 K210 | Kendryte | K210 | RV64GC | KD233 development board, Sipeed MAIX/M1 development boards | public since 2018Q4 | [Kendryte](https://kendryte.com/), [Datasheet](https://s3.cn-north-1.amazonaws.com.cn/dl.kendryte.com/documents/kendryte_datasheet_20181011163248_en.pdf), [GitHub](https://github.com/kendryte)
 RV32M1 | NXP | RI5CY + Zero RI5CY + Arm Cortex M4F + Arm Cortex M0+ | RV32IMC | [VEGAboard](https://open-isa.org/) | available for preorder as of 2018Q4 | [Reference Manual and Datasheet](https://github.com/open-isa-org/open-isa.org/tree/master/Reference%20Manual%20and%20Data%20Sheet)
 RavenRV32 | efabless | PicoRV32 | RV32IMAC | RavenRV32 DevKit | Limited Quantity | [Datasheet](https://ef.link/raven), [GitHub](https://github.com/efabless/raven-picorv32)
