@@ -37,8 +37,10 @@ Name | Links | Core | License | Supplier
 ---- | ----- | ---- | ------- | --------
 Rocket Chip | [GitHub](https://github.com/freechipsproject/rocket-chip),[Simulator](https://fires.im) | Rocket | BSD | SiFive, UCB BAR
 LowRISC | [GitHub](https://github.com/lowRISC/lowrisc-chip) | RV32IM | BSD | LowRISC CIC
-PULPino | [Website](http://www.pulp-platform.org),[GitHub](https://github.com/pulp-platform/pulpino) | RI5CY, Zero-riscy, Ariane | Solderpad Hardware License v. 0.51 | ETH Zurich, Università di Bologna
-PULPissimo | [Website](http://www.pulp-platform.org),[GitHub](https://github.com/pulp-platform/pulpissimo) | RI5CY, Zero-riscy, Ariane | Solderpad Hardware License v. 0.51 | ETH Zurich, Università di Bologna
+PULPino | [Website](http://www.pulp-platform.org),[GitHub](https://github.com/pulp-platform/pulpino) | RI5CY, Zero-riscy | Solderpad Hardware License v. 0.51 | ETH Zurich, Università di Bologna
+PULPissimo | [Website](http://www.pulp-platform.org),[GitHub](https://github.com/pulp-platform/pulpissimo) | RI5CY, Zero-riscy | Solderpad Hardware License v. 0.51 | ETH Zurich, Università di Bologna
+OPENPULP | [Website](http://www.pulp-platform.org),[GitHub](https://github.com/pulp-platform/pulp) | RI5CY, Zero-riscy | Solderpad Hardware License v. 0.51 | ETH Zurich, Università di Bologna
+HERO | [Website](http://www.pulp-platform.org),[GitHub](https://github.com/pulp-platform/pulp) | RI5CY, Zero-riscy | Solderpad Hardware License v. 0.51 | ETH Zurich, Università di Bologna
 OpenPiton + Ariane | [Website](https://parallel.princeton.edu/openpiton/),[GitHub](https://github.com/PrincetonUniversity/openpiton) | Ariane | BSD | Princeton Parallel Group
 Briey | [GitHub](https://github.com/SpinalHDL/VexRiscv#briey-soc) | VexRiscv | MIT | SpinalHDL
 Riscy | [GitHub](https://github.com/AleksandarKostovic/Riscy-SoC) | RV64I | MIT | AleksandarKostovic
