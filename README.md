@@ -14,7 +14,7 @@ Berkeley Out-of-Order Machine (BOOM) | [GitHub](https://github.com/ucb-bar/riscv
 ORCA | [GitHub](https://github.com/vectorblox/orca) |  | RV32IM | BSD | VectorBlox
 RI5CY | [GitHub](https://github.com/pulp-platform/riscv) |  | RV32IMC | Solderpad Hardware License v. 0.51 | ETH Zurich, Università di Bologna
 Zero-riscy | [GitHub](https://github.com/pulp-platform/zero-riscy) |  | RV32IMC | Solderpad Hardware License v. 0.51 | ETH Zurich, Università di Bologna
-Ariane | [Website](https://pulp-platform.github.io/ariane/docs/home/),[GitHub](https://github.com/pulp-platform/ariane) |  | RV64IMC | Solderpad Hardware License v. 0.51 | ETH Zurich, Università di Bologna
+Ariane | [Website](https://pulp-platform.github.io/ariane/docs/home/),[GitHub](https://github.com/pulp-platform/ariane) | 1.11-draft | RV64GC | Solderpad Hardware License v. 0.51 | ETH Zurich, Università di Bologna
 Riscy Processors | [Website](http://csg.csail.mit.edu/riscy-e/),[GitHub](https://github.com/csail-csg/riscy) |  | | MIT | MIT CSAIL CSG
 RiscyOO | [GitHub](https://github.com/csail-csg/riscy-OOO) | 1.10 | RV64IMAFD | MIT | MIT CSAIL CSG
 Minerva | [GitHub](https://github.com/lambdaconcept/minerva) | 1.10 | RV32I | BSD | LambdaConcept
@@ -39,6 +39,7 @@ Rocket Chip | [GitHub](https://github.com/freechipsproject/rocket-chip),[Simulat
 LowRISC | [GitHub](https://github.com/lowRISC/lowrisc-chip) | RV32IM | BSD | LowRISC CIC
 PULPino | [Website](http://www.pulp-platform.org),[GitHub](https://github.com/pulp-platform/pulpino) | RI5CY, Zero-riscy, Ariane | Solderpad Hardware License v. 0.51 | ETH Zurich, Università di Bologna
 PULPissimo | [Website](http://www.pulp-platform.org),[GitHub](https://github.com/pulp-platform/pulpissimo) | RI5CY, Zero-riscy, Ariane | Solderpad Hardware License v. 0.51 | ETH Zurich, Università di Bologna
+Ariane SoC | [Website](http://www.pulp-platform.org),[GitHub](https://github.com/pulp-platform/ariane) | Ariane | Solderpad Hardware License v. 0.51 | ETH Zurich, Università di Bologna
 OpenPiton + Ariane | [Website](https://parallel.princeton.edu/openpiton/),[GitHub](https://github.com/PrincetonUniversity/openpiton) | Ariane | BSD | Princeton Parallel Group
 Briey | [GitHub](https://github.com/SpinalHDL/VexRiscv#briey-soc) | VexRiscv | MIT | SpinalHDL
 Riscy | [GitHub](https://github.com/AleksandarKostovic/Riscy-SoC) | RV64I | MIT | AleksandarKostovic
