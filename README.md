@@ -36,6 +36,7 @@ Bk5 | Codasip | [Website](http://www.codasip.com) | 1.10 | Bk5-32IMC-pbid / Bk5-
 Bk7 | Codasip | [Website](http://www.codasip.com) | 1.10 | Bk7-64GC-IDbid | Codasip EULA
 DarkRISCV | Darklife | [GitHub](https://github.com/darklife/darkriscv) | | most of RV32I | BSD
 RPU | Domipheus Labs | [GitHub](https://github.com/Domipheus/RPU) | | RV32I | Apache 2.0
+RV01 | Stefano Tonello | [OpenCores](https://opencores.org/projects/rv01_riscv_core) | 1.7 | 2.1, RV32IM | LPGL
 
 ## SoC platforms
 
