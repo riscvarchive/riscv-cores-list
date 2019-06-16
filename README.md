@@ -31,9 +31,9 @@ MR1 | Tom Verbeure | [GitHub](https://github.com/tomverbeure/mr1) | | RV32I | Un
 SERV | Olof Kindgren | [GitHub](https://github.com/olofk/serv) | | RV32I | ISC
 SweRV EH1 | Western Digital Corporation | [GitHub](https://github.com/westerndigitalcorporation/swerv_eh1) | | RV32IMC | Apache 2.0
 Reve-R | Gavin Stark | [GitHub](https://github.com/atthecodeface/cdl_hardware) | 1.10 | RV32IMAC | Apache 2.0
-Bk3 | Codasip | [Website](http://www.codasip.com) | 1.10 | Bk3-32EMC-id / Bk3-32IMC-pid / Bk3-32IMC-IDpid / Bk3-32IMFC-pid / Bk3-32IMFC-IDpid | Codasip EULA
-Bk5 | Codasip | [Website](http://www.codasip.com) | 1.10 | Bk5-32IMC-pbid / Bk5-32IMC-IDpbid / Bk5-32IMFC-pbid / Bk5-32IMFC-IDpbid / Bk5-64IMFDC-IDpbid | Codasip EULA
-Bk7 | Codasip | [Website](http://www.codasip.com) | 1.10 | Bk7-64GC-IDbid | Codasip EULA
+Bk3 | Codasip | [Website](http://www.codasip.com) | 1.10 | RV32EMC / RV32IM[F]C | Codasip EULA
+Bk5 | Codasip | [Website](http://www.codasip.com) | 1.10 | RV32IM[F]C / RV64IM[F]C | Codasip EULA
+Bk7 | Codasip | [Website](http://www.codasip.com) | 1.10 | RV64IMA[F][D][C] | Codasip EULA
 DarkRISCV | Darklife | [GitHub](https://github.com/darklife/darkriscv) | | most of RV32I | BSD
 RPU | Domipheus Labs | [GitHub](https://github.com/Domipheus/RPU) | | RV32I | Apache 2.0
 RV01 | Stefano Tonello | [OpenCores](https://opencores.org/projects/rv01_riscv_core) | 1.7 | 2.1, RV32IM | LPGL
