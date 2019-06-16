@@ -34,6 +34,9 @@ Reve-R | Gavin Stark | [GitHub](https://github.com/atthecodeface/cdl_hardware) |
 Bk3 | Codasip | [Website](http://www.codasip.com) | 1.10 | RV32EMC / RV32IM[F]C | Codasip EULA
 Bk5 | Codasip | [Website](http://www.codasip.com) | 1.10 | RV32IM[F]C / RV64IM[F]C | Codasip EULA
 Bk7 | Codasip | [Website](http://www.codasip.com) | 1.10 | RV64IMA[F][D][C] | Codasip EULA
+DarkRISCV | Darklife | [GitHub](https://github.com/darklife/darkriscv) | | most of RV32I | BSD
+RPU | Domipheus Labs | [GitHub](https://github.com/Domipheus/RPU) | | RV32I | Apache 2.0
+RV01 | Stefano Tonello | [OpenCores](https://opencores.org/projects/rv01_riscv_core) | 1.7 | 2.1, RV32IM | LPGL
 
 ## SoC platforms
 
