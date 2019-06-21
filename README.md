@@ -6,37 +6,37 @@ Please add to the list and fix inaccuracies.
 
 ## Cores
 
-Name | Supplier | Links | Priv. spec | User spec | License
----- | -------- | ----- | ---------- | --------- | -------
-rocket | SiFive, UCB Bar| [GitHub](https://github.com/freechipsproject/rocket-chip) | 1.11-draft | 2.3-draft | BSD
-freedom | SiFive | [GitHub](https://github.com/sifive/freedom) | 1.11-draft | 2.3-draft | BSD
-Berkeley Out-of-Order Machine (BOOM) | Esperanto, UCB Bar | [GitHub](https://github.com/ucb-bar/riscv-boom) | 1.11-draft | 2.3-draft | BSD
-ORCA | VectorBlox | [GitHub](https://github.com/vectorblox/orca) |  | RV32IM | BSD
-RI5CY | ETH Zurich, Università di Bologna | [GitHub](https://github.com/pulp-platform/riscv) |  | RV32IMC | Solderpad Hardware License v. 0.51
-Zero-riscy | ETH Zurich, Università di Bologna | [GitHub](https://github.com/pulp-platform/zero-riscy) |  | RV32IMC | Solderpad Hardware License v. 0.51
-Ariane | ETH Zurich, Università di Bologna | [Website](https://pulp-platform.github.io/ariane/docs/home/),[GitHub](https://github.com/pulp-platform/ariane) | 1.11-draft | RV64GC | Solderpad Hardware License v. 0.51
-Riscy Processors | MIT CSAIL CSG | [Website](http://csg.csail.mit.edu/riscy-e/),[GitHub](https://github.com/csail-csg/riscy) | | | MIT
-RiscyOO | MIT CSAIL CSG | [GitHub](https://github.com/csail-csg/riscy-OOO) | 1.10 | RV64IMAFD | MIT
-Lizard | Cornell CSL BRG | [GitHub](https://github.com/cornell-brg/lizard) | | RV64IM | BSD
-Minerva | LambdaConcept | [GitHub](https://github.com/lambdaconcept/minerva) | 1.10 | RV32I | BSD
-OPenV/mriscv | OnChipUIS | [GitHub](https://github.com/onchipuis/mriscv) | | RV32I(?) | MIT
-VexRiscv | SpinalHDL | [GitHub](https://github.com/SpinalHDL/VexRiscv) | | RV32I[M][C] | MIT
-Roa Logic RV12 | Roa Logic | [GitHub](https://github.com/roalogic/RV12) | 1.9.1 | 2.1 | Non-Commercial License
-SCR1 | Syntacore | [GitHub]( https://github.com/syntacore/scr1) | 1.10 | 2.2, RV32I/E[MC] | Solderpad Hardware License v. 0.51
-Hummingbird E200 | Bob Hu | [GitHub](https://github.com/SI-RISCV/e200_opensource) | 1.10 | 2.2, RV32IMAC | Apache 2.0
-Shakti | IIT Madras | [Website](http://shakti.org.in/),[GitLab](https://gitlab.com/shaktiproject) | 1.11 | 2.2, RV64IMAFDC | BSD
-ReonV | Lucas Castro | [GitHub](https://github.com/lcbcFoo/ReonV) | | | GPL v3
-PicoRV32 | Clifford Wolf | [GitHub](https://github.com/cliffordwolf/picorv32) | | RV32I/E[MC] | ISC
-MR1 | Tom Verbeure | [GitHub](https://github.com/tomverbeure/mr1) | | RV32I | Unlicense
-SERV | Olof Kindgren | [GitHub](https://github.com/olofk/serv) | | RV32I | ISC
-SweRV EH1 | Western Digital Corporation | [GitHub](https://github.com/westerndigitalcorporation/swerv_eh1) | | RV32IMC | Apache 2.0
-Reve-R | Gavin Stark | [GitHub](https://github.com/atthecodeface/cdl_hardware) | 1.10 | RV32IMAC | Apache 2.0
-Bk3 | Codasip | [Website](http://www.codasip.com) | 1.10 | RV32EMC / RV32IM[F]C | Codasip EULA
-Bk5 | Codasip | [Website](http://www.codasip.com) | 1.10 | RV32IM[F]C / RV64IM[F]C | Codasip EULA
-Bk7 | Codasip | [Website](http://www.codasip.com) | 1.10 | RV64IMA[F][D][C] | Codasip EULA
-DarkRISCV | Darklife | [GitHub](https://github.com/darklife/darkriscv) | | most of RV32I | BSD
-RPU | Domipheus Labs | [GitHub](https://github.com/Domipheus/RPU) | | RV32I | Apache 2.0
-RV01 | Stefano Tonello | [OpenCores](https://opencores.org/projects/rv01_riscv_core) | 1.7 | 2.1, RV32IM | LPGL
+Name | Supplier | Links | Priv. spec | User spec | Primary Language | License
+---- | -------- | ----- | ---------- | --------- | ---------------- | -------
+rocket | SiFive, UCB Bar| [GitHub](https://github.com/freechipsproject/rocket-chip) | 1.11-draft | 2.3-draft | Chisel | BSD
+freedom | SiFive | [GitHub](https://github.com/sifive/freedom) | 1.11-draft | 2.3-draft | Chisel | BSD
+Berkeley Out-of-Order Machine (BOOM) | Esperanto, UCB Bar | [GitHub](https://github.com/ucb-bar/riscv-boom) | 1.11-draft | 2.3-draft | Chisel | BSD
+ORCA | VectorBlox | [GitHub](https://github.com/vectorblox/orca) |  | RV32IM | VHDL | BSD
+RI5CY | ETH Zurich, Università di Bologna | [GitHub](https://github.com/pulp-platform/riscv) |  | RV32IMC | SystemVerilog | Solderpad Hardware License v. 0.51
+Zero-riscy | ETH Zurich, Università di Bologna | [GitHub](https://github.com/pulp-platform/zero-riscy) |  | RV32IMC | SystemVerilog | Solderpad Hardware License v. 0.51
+Ariane | ETH Zurich, Università di Bologna | [Website](https://pulp-platform.github.io/ariane/docs/home/),[GitHub](https://github.com/pulp-platform/ariane) | 1.11-draft | RV64GC | SystemVerilog | Solderpad Hardware License v. 0.51
+Riscy Processors | MIT CSAIL CSG | [Website](http://csg.csail.mit.edu/riscy-e/),[GitHub](https://github.com/csail-csg/riscy) | | | Bluespec | MIT
+RiscyOO | MIT CSAIL CSG | [GitHub](https://github.com/csail-csg/riscy-OOO) | 1.10 | RV64IMAFD | Bluespec | MIT
+Lizard | Cornell CSL BRG | [GitHub](https://github.com/cornell-brg/lizard) | | RV64IM | PyMTL | BSD
+Minerva | LambdaConcept | [GitHub](https://github.com/lambdaconcept/minerva) | 1.10 | RV32I | nMigen | BSD
+OPenV/mriscv | OnChipUIS | [GitHub](https://github.com/onchipuis/mriscv) | | RV32I(?) | Verilog | MIT
+VexRiscv | SpinalHDL | [GitHub](https://github.com/SpinalHDL/VexRiscv) | | RV32I[M][C] | SpinalHDL | MIT
+Roa Logic RV12 | Roa Logic | [GitHub](https://github.com/roalogic/RV12) | 1.9.1 | 2.1 | SystemVerilog | Non-Commercial License
+SCR1 | Syntacore | [GitHub](https://github.com/syntacore/scr1) | 1.10 | 2.2, RV32I/E[MC] | SystemVerilog | Solderpad Hardware License v. 0.51
+Hummingbird E200 | Bob Hu | [GitHub](https://github.com/SI-RISCV/e200_opensource) | 1.10 | 2.2, RV32IMAC | Verilog | Apache 2.0
+Shakti | IIT Madras | [Website](http://shakti.org.in/),[GitLab](https://gitlab.com/shaktiproject) | 1.11 | 2.2, RV64IMAFDC | Bluespec | BSD
+ReonV | Lucas Castro | [GitHub](https://github.com/lcbcFoo/ReonV) | | | VHDL | GPL v3
+PicoRV32 | Clifford Wolf | [GitHub](https://github.com/cliffordwolf/picorv32) | | RV32I/E[MC] | Verilog | ISC
+MR1 | Tom Verbeure | [GitHub](https://github.com/tomverbeure/mr1) | | RV32I | SpinalHDL | Unlicense
+SERV | Olof Kindgren | [GitHub](https://github.com/olofk/serv) | | RV32I | Verilog | ISC
+SweRV EH1 | Western Digital Corporation | [GitHub](https://github.com/westerndigitalcorporation/swerv_eh1) | | RV32IMC | SystemVerilog | Apache 2.0
+Reve-R | Gavin Stark | [GitHub](https://github.com/atthecodeface/cdl_hardware) | 1.10 | RV32IMAC | CDL | Apache 2.0
+Bk3 | Codasip | [Website](http://www.codasip.com) | 1.10 | RV32EMC / RV32IM[F]C | Verilog | Codasip EULA
+Bk5 | Codasip | [Website](http://www.codasip.com) | 1.10 | RV32IM[F]C / RV64IM[F]C | Verilog | Codasip EULA
+Bk7 | Codasip | [Website](http://www.codasip.com) | 1.10 | RV64IMA[F][D][C] | Verilog | Codasip EULA
+DarkRISCV | Darklife | [GitHub](https://github.com/darklife/darkriscv) | | most of RV32I | Verilog | BSD
+RPU | Domipheus Labs | [GitHub](https://github.com/Domipheus/RPU) | | RV32I | VHDL | Apache 2.0
+RV01 | Stefano Tonello | [OpenCores](https://opencores.org/projects/rv01_riscv_core) | 1.7 | 2.1, RV32IM | VHDL | LPGL
 
 ## SoC platforms
 
