@@ -13,7 +13,7 @@ freedom | SiFive | [GitHub](https://github.com/sifive/freedom) | 1.11-draft | 2.
 Berkeley Out-of-Order Machine (BOOM) | Esperanto, UCB Bar | [GitHub](https://github.com/ucb-bar/riscv-boom) | 1.11-draft | 2.3-draft | Chisel | BSD
 ORCA | VectorBlox | [GitHub](https://github.com/vectorblox/orca) |  | RV32IM | VHDL | BSD
 RI5CY | ETH Zurich, Università di Bologna | [GitHub](https://github.com/pulp-platform/riscv) |  | RV32IMC | SystemVerilog | Solderpad Hardware License v. 0.51
-Zero-riscy | ETH Zurich, Università di Bologna | [GitHub](https://github.com/pulp-platform/zero-riscy) |  | RV32IMC | SystemVerilog | Solderpad Hardware License v. 0.51
+Ibex (formerly Zero-riscy) | lowRISC | [GitHub](https://github.com/lowRISC/ibex) | 1.11 | RV32I[M]C/RV32E[M]C | SystemVerilog | Apache 2.0
 Ariane | ETH Zurich, Università di Bologna | [Website](https://pulp-platform.github.io/ariane/docs/home/),[GitHub](https://github.com/pulp-platform/ariane) | 1.11-draft | RV64GC | SystemVerilog | Solderpad Hardware License v. 0.51
 Riscy Processors | MIT CSAIL CSG | [Website](http://csg.csail.mit.edu/riscy-e/),[GitHub](https://github.com/csail-csg/riscy) | | | Bluespec | MIT
 RiscyOO | MIT CSAIL CSG | [GitHub](https://github.com/csail-csg/riscy-OOO) | 1.10 | RV64IMAFD | Bluespec | MIT
@@ -43,7 +43,7 @@ RV01 | Stefano Tonello | [OpenCores](https://opencores.org/projects/rv01_riscv_c
 Name | Supplier | Links | Core | License
 ---- | -------- | ----- | ---- | -------
 Rocket Chip | SiFive, UCB BAR | [GitHub](https://github.com/freechipsproject/rocket-chip),[Simulator](https://fires.im) | Rocket | BSD
-LowRISC | LowRISC CIC | [GitHub](https://github.com/lowRISC/lowrisc-chip) | RV32IM | BSD
+LowRISC | lowRISC | [GitHub](https://github.com/lowRISC/lowrisc-chip) | RV32IM | BSD
 PULPino | ETH Zurich, Università di Bologna | [Website](http://www.pulp-platform.org),[GitHub](https://github.com/pulp-platform/pulpino) | RI5CY, Zero-riscy | Solderpad Hardware License v. 0.51
 PULPissimo | ETH Zurich, Università di Bologna | [Website](http://www.pulp-platform.org),[GitHub](https://github.com/pulp-platform/pulpissimo) | RI5CY, Zero-riscy | Solderpad Hardware License v. 0.51
 Ariane SoC | ETH Zurich, Università di Bologna | [Website](http://www.pulp-platform.org),[GitHub](https://github.com/pulp-platform/ariane) | Ariane | Solderpad Hardware License v. 0.51
