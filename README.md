@@ -37,6 +37,14 @@ Bk7 | Codasip | [Website](http://www.codasip.com) | 1.10 | RV64IMA[F][D][C] | Ve
 DarkRISCV | Darklife | [GitHub](https://github.com/darklife/darkriscv) | | most of RV32I | Verilog | BSD
 RPU | Domipheus Labs | [GitHub](https://github.com/Domipheus/RPU) | | RV32I | VHDL | Apache 2.0
 RV01 | Stefano Tonello | [OpenCores](https://opencores.org/projects/rv01_riscv_core) | 1.7 | 2.1, RV32IM | VHDL | LPGL
+N22 | Andes | [Website](http://freestart.andestech.com/) | 1.11 | RV32IMAC/EMAC + Andes V5/V5e ext. | Verilog | Andes FreeStart IPEA
+N25F | Andes | [Website](http://www.andestech.com/en/products-solutions/andescore-processors/riscv-n25f/) | 1.11 | RV32GC + Andes V5 ext. | Verilog | Andes Commercial License
+D25F | Andes | [Website](http://www.andestech.com/en/products-solutions/andescore-processors/riscv-d25f/) | 1.11 | RV32GCP + Andes V5 ext. | Verilog | Andes Commercial License
+A25 | Andes | [Website](http://www.andestech.com/en/products-solutions/andescore-processors/riscv-a25/) | 1.11 | RV32GCP + SV32 + Andes V5 ext. | Verilog | Andes Commercial License
+A25MP | Andes | [Website](http://www.andestech.com/en/products-solutions/andescore-processors/riscv-a25mp/) | 1.11 | RV32GCP + SV32 + Andes V5 ext. + Multi-core | Verilog | Andes Commercial License
+NX25F | Andes | [Website](http://www.andestech.com/en/products-solutions/andescore-processors/riscv-nx25f/) | 1.11 | RV64GC + Andes V5 ext. | Verilog | Andes Commercial License
+AX25 | Andes | [Website](http://www.andestech.com/en/products-solutions/andescore-processors/riscv-ax25/) | 1.11 | RV64GCP + SV39/48 + Andes V5 ext. | Verilog | Andes Commercial License
+AX25MP | Andes | [Website](http://www.andestech.com/en/products-solutions/andescore-processors/riscv-ax25mp/) | 1.11 | RV64GCP + SV39/48 + Andes V5 ext. + Multi-core | Verilog | Andes Commercial License
 
 ## SoC platforms
 
@@ -58,6 +66,9 @@ Icicle | Graham Edgecombe | [GitHub](https://github.com/grahamedgecombe/icicle) 
 MIV RV32IMA L1 AHB | Microchip | [Documentation](http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=1243779), [IDE](https://www.microsemi.com/product-directory/design-tools/4879-softconsole), [Development Environment](https://www.microsemi.com/product-directory/design-resources/1750-libero-soc) | Rocket RV32IMA | Apache 2.0
 MIV RV32IMA L1 AXI | Microchip | [Documentation](http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=1243780), [IDE](https://www.microsemi.com/product-directory/design-tools/4879-softconsole), [Development Environment](https://www.microsemi.com/product-directory/design-resources/1750-libero-soc) | Rocket RV32IMA | Apache 2.0
 MIV RV32IMAF L1 AHB | Microchip | [Documentation](http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=1243781), [IDE](https://www.microsemi.com/product-directory/design-tools/4879-softconsole), [Development Environment](https://www.microsemi.com/product-directory/design-resources/1750-libero-soc) | Rocket RV32IMAF | Apache 2.0
+FreeStart AE250 | Andes | [Website](http://freestart.andestech.com/) | N22 | Andes FreeStart: Free for Evaluation
+Standard AE250 | Andes | [Website](http://www.andestech.com/en/products-solutions/andeshape-platforms/ae250-ahb-based-platform-pre-integrated-with-n22/), [IDE](http://www.andestech.com/en/products-solutions/andesight-ide/) | N22 | Andes Commerical License
+AE350 | Andes | [Website](http://www.andestech.com/en/products-solutions/andeshape-platforms/ae350-axi-based-platform-pre-integrated-with-n25f-nx25f-a25-ax25/), [IDE](http://www.andestech.com/en/products-solutions/andesight-ide/) | N25F, D25F, A25, A25MP, NX25F, AX25, AX25MP | Andes Commerical License
 
 ## SoCs
 
