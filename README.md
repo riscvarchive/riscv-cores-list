@@ -40,8 +40,8 @@ RV01 | Stefano Tonello | [OpenCores](https://opencores.org/projects/rv01_riscv_c
 N22 | Andes | [Website](http://freestart.andestech.com/) | 1.11 | RV32IMAC/EMAC + Andes V5/V5e ext. | Verilog | RTOS | Andes FreeStart IPEA
 N25F | Andes | [Website](http://www.andestech.com/en/products-solutions/andescore-processors/riscv-n25f/) | 1.11 | RV32GC + Andes V5 ext. | Verilog | RTOS| Andes Commercial License
 D25F | Andes | [Website](http://www.andestech.com/en/products-solutions/andescore-processors/riscv-d25f/) | 1.11 | RV32GCP + Andes V5 ext. | Verilog | RTOS | Andes Commercial License
-A25 | Andes | [Website](http://www.andestech.com/en/products-solutions/andescore-processors/riscv-a25/) | 1.11 | RV32GCP + SV32 + Andes V5 ext. | Verilog | RTOS | Andes Commercial License
-A25MP | Andes | [Website](http://www.andestech.com/en/products-solutions/andescore-processors/riscv-a25mp/) | 1.11 | RV32GCP + SV32 + Andes V5 ext. + Multi-core | Verilog | RTOS | Andes Commercial License
+A25 | Andes | [Website](http://www.andestech.com/en/products-solutions/andescore-processors/riscv-a25/) | 1.11 | RV32GCP + SV32 + Andes V5 ext. | Verilog | Linux | Andes Commercial License
+A25MP | Andes | [Website](http://www.andestech.com/en/products-solutions/andescore-processors/riscv-a25mp/) | 1.11 | RV32GCP + SV32 + Andes V5 ext. + Multi-core | Verilog | Linux | Andes Commercial License
 NX25F | Andes | [Website](http://www.andestech.com/en/products-solutions/andescore-processors/riscv-nx25f/) | 1.11 | RV64GC + Andes V5 ext. | Verilog | Linux | Andes Commercial License
 AX25 | Andes | [Website](http://www.andestech.com/en/products-solutions/andescore-processors/riscv-ax25/) | 1.11 | RV64GCP + SV39/48 + Andes V5 ext. | Verilog | Linux | Andes Commercial License
 AX25MP | Andes | [Website](http://www.andestech.com/en/products-solutions/andescore-processors/riscv-ax25mp/) | 1.11 | RV64GCP + SV39/48 + Andes V5 ext. + Multi-core | Verilog | Linux | Andes Commercial License
