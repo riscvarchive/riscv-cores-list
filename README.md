@@ -8,6 +8,9 @@ Please add to the list and fix inaccuracies.
 
 Name | Supplier | Links | Priv. spec | User spec | Primary Language | License
 ---- | -------- | ----- | ---------- | --------- | ---------------- | -------
+RV32EC_P2 | IQonIC Works | [Website](http://iqonicworks.com/risc-v-ip/) | 1.11 | RV32E[M]C/RV32I[M]C | SystemVerilog | IQonIC Works Commercial License
+RV32IC_P5 | IQonIC Works | [Website](http://iqonicworks.com/risc-v-ip/) | 1.11 | RV32I[M][N][A]C | SystemVerilog | IQonIC Works Commercial License
+RV32EC_FMP5 | IQonIC Works | [Website](http://iqonicworks.com/risc-v-ip/) | Custom | RV32EC | SystemVerilog | IQonIC Works Commercial License
 rocket | SiFive, UCB Bar| [GitHub](https://github.com/freechipsproject/rocket-chip) | 1.11-draft | 2.3-draft | Chisel | BSD
 freedom | SiFive | [GitHub](https://github.com/sifive/freedom) | 1.11-draft | 2.3-draft | Chisel | BSD
 Berkeley Out-of-Order Machine (BOOM) | Esperanto, UCB Bar | [GitHub](https://github.com/ucb-bar/riscv-boom) | 1.11-draft | 2.3-draft | Chisel | BSD
