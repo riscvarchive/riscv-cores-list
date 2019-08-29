@@ -48,7 +48,7 @@ A25MP | Andes | [Website](http://www.andestech.com/en/products-solutions/andesco
 NX25F | Andes | [Website](http://www.andestech.com/en/products-solutions/andescore-processors/riscv-nx25f/) | 1.11 | RV64GC + Andes V5 ext. | Verilog | Andes Commercial License
 AX25 | Andes | [Website](http://www.andestech.com/en/products-solutions/andescore-processors/riscv-ax25/) | 1.11 | RV64GCP + SV39/48 + Andes V5 ext. | Verilog | Andes Commercial License
 AX25MP | Andes | [Website](http://www.andestech.com/en/products-solutions/andescore-processors/riscv-ax25mp/) | 1.11 | RV64GCP + SV39/48 + Andes V5 ext. + Multi-core | Verilog | Andes Commercial License
-
+Instant SoC | FPGA Cores | [Website](http://www.fpga-cores.com/instant-soc/) |  | RV32IM | VHDL | Free Non Commercial
 ## SoC platforms
 
 Name | Supplier | Links | Core | License
