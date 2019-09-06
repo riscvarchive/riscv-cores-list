@@ -49,6 +49,7 @@ NX25F | Andes | [Website](http://www.andestech.com/en/products-solutions/andesco
 AX25 | Andes | [Website](http://www.andestech.com/en/products-solutions/andescore-processors/riscv-ax25/) | 1.11 | RV64GCP + SV39/48 + Andes V5 ext. | Verilog | Andes Commercial License
 AX25MP | Andes | [Website](http://www.andestech.com/en/products-solutions/andescore-processors/riscv-ax25mp/) | 1.11 | RV64GCP + SV39/48 + Andes V5 ext. + Multi-core | Verilog | Andes Commercial License
 Instant SoC | FPGA Cores | [Website](http://www.fpga-cores.com/instant-soc/) |  | RV32IM | VHDL | Free Non Commercial
+Taiga | Reconfigurable Computing Lab, Simon Fraser University  | [GitLab](https://gitlab.com/sfu-rcl/Taiga) |  | RV32IMA | SystemVerilog | Apache 2.0
 ## SoC platforms
 
 Name | Supplier | Links | Core | License
