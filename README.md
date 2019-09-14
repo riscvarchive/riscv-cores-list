@@ -79,6 +79,9 @@ FreeStart AE250 | Andes | [Website](http://freestart.andestech.com/) | N22 | And
 Standard AE250 | Andes | [Website](http://www.andestech.com/en/products-solutions/andeshape-platforms/ae250-ahb-based-platform-pre-integrated-with-n22/), [IDE](http://www.andestech.com/en/products-solutions/andesight-ide/) | N22 | Andes Commerical License
 AE350 | Andes | [Website](http://www.andestech.com/en/products-solutions/andeshape-platforms/ae350-axi-based-platform-pre-integrated-with-n25f-nx25f-a25-ax25/), [IDE](http://www.andestech.com/en/products-solutions/andesight-ide/) | N25F, D25F, A25, A25MP, NX25F, AX25, AX25MP | Andes Commerical License
 SCR1 SDK | Syntacore | [GitHub](https://github.com/syntacore/scr1-sdk) | SCR1, SCRx | SHL 2.0 
+Nobotro | KevlishviliMisha | [GitHub](https://github.com/nobotro/fpga_riscv_cpu) | RV32I | MIT
+
+
 
 ## SoCs
 
