@@ -25,7 +25,11 @@ Minerva | LambdaConcept | [GitHub](https://github.com/lambdaconcept/minerva) | 1
 OPenV/mriscv | OnChipUIS | [GitHub](https://github.com/onchipuis/mriscv) | | RV32I(?) | Verilog | MIT
 VexRiscv | SpinalHDL | [GitHub](https://github.com/SpinalHDL/VexRiscv) | | RV32I[M][C] | SpinalHDL | MIT
 Roa Logic RV12 | Roa Logic | [GitHub](https://github.com/roalogic/RV12) | 1.9.1 | 2.1 | SystemVerilog | Non-Commercial License
-SCR1 | Syntacore | [GitHub](https://github.com/syntacore/scr1) | 1.10 | 2.2, RV32I/E[MC] | SystemVerilog | Solderpad Hardware License v. 0.51
+SCR1 | Syntacore | [GitHub](https://github.com/syntacore/scr1) | 1.10 | 2.2, RV32I/E[MC] | SystemVerilog | SHL v. 2.0
+SCR3 | Syntacore | [Website](https://syntacore.com/page/products/processor-ip/scr3) | 1.10 | RV[32/64]IMC[A], 2.2, milticore | SystemVerilog | commercial
+SCR4 | Syntacore | [Website](https://syntacore.com/page/products/processor-ip/scr4) | 1.10 | RV[32/64]IMCF[DA], 2.2, milticore | SystemVerilog | commercial
+SCR5 | Syntacore | [Website](https://syntacore.com/page/products/processor-ip/scr5) | 1.10 | RV[32/64]IMC[FDA], 2.2, milticore | SystemVerilog | commercial
+SCR7 | Syntacore | [Website](https://syntacore.com/page/products/processor-ip/scr7) | 1.10 | RV64GC, 2.2, milticore | SystemVerilog | commercial
 Hummingbird E200 | Bob Hu | [GitHub](https://github.com/SI-RISCV/e200_opensource) | 1.10 | 2.2, RV32IMAC | Verilog | Apache 2.0
 Shakti | IIT Madras | [Website](http://shakti.org.in/),[GitLab](https://gitlab.com/shaktiproject) | 1.11 | 2.2, RV64IMAFDC | Bluespec | BSD
 ReonV | Lucas Castro | [GitHub](https://github.com/lcbcFoo/ReonV) | | | VHDL | GPL v3
@@ -74,6 +78,7 @@ MIV RV32IMAF L1 AHB | Microchip | [Documentation](http://www.microsemi.com/index
 FreeStart AE250 | Andes | [Website](http://freestart.andestech.com/) | N22 | Andes FreeStart: Free for Evaluation
 Standard AE250 | Andes | [Website](http://www.andestech.com/en/products-solutions/andeshape-platforms/ae250-ahb-based-platform-pre-integrated-with-n22/), [IDE](http://www.andestech.com/en/products-solutions/andesight-ide/) | N22 | Andes Commerical License
 AE350 | Andes | [Website](http://www.andestech.com/en/products-solutions/andeshape-platforms/ae350-axi-based-platform-pre-integrated-with-n25f-nx25f-a25-ax25/), [IDE](http://www.andestech.com/en/products-solutions/andesight-ide/) | N25F, D25F, A25, A25MP, NX25F, AX25, AX25MP | Andes Commerical License
+SCR1 SDK | Syntacore | [GitHub](https://github.com/syntacore/scr1-sdk) | SCR1, SCRx | SHL 2.0 
 
 ## SoCs
 
