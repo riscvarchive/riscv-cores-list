@@ -55,6 +55,7 @@ AX25MP | Andes | [Website](http://www.andestech.com/en/products-solutions/andesc
 Instant SoC | FPGA Cores | [Website](http://www.fpga-cores.com/instant-soc/) |  | RV32IM | VHDL | Free Non Commercial
 Taiga | Reconfigurable Computing Lab, Simon Fraser University | [GitLab](https://gitlab.com/sfu-rcl/Taiga) |  | RV32IMA | SystemVerilog | Apache 2.0
 Maestro | João Chrisóstomo | [GitHub](https://github.com/Artoriuz/maestro) | | RV32I | VHDL | MIT
+XuanTie 910 | T-Head (Alibaba group) | [Website](https://www.t-head.cn/product/15?spm=a2ouz.12987052.0.0.548e48abpzoWqO) |  1.11 | RV64GCV | ? | Alibaba commercial license
 
 ## SoC platforms
 
