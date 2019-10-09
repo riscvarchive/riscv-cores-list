@@ -56,6 +56,9 @@ Instant SoC | FPGA Cores | [Website](http://www.fpga-cores.com/instant-soc/) |  
 Taiga | Reconfigurable Computing Lab, Simon Fraser University | [GitLab](https://gitlab.com/sfu-rcl/Taiga) |  | RV32IMA | SystemVerilog | Apache 2.0
 Maestro | João Chrisóstomo | [GitHub](https://github.com/Artoriuz/maestro) | | RV32I | VHDL | MIT
 XuanTie 910 | T-Head (Alibaba group) | [Website](https://www.t-head.cn/product/15?spm=a2ouz.12987052.0.0.548e48abpzoWqO) |  1.11 | RV64GCV | ? | Alibaba commercial license
+XuanTie C910 | T-Head (Alibaba group) | [Website](https://www.t-head.cn/product/15?spm=a2ouz.12987052.0.0.3b0348ab46p9nv) | 1.10 |  RV64GCV + SV39 + ISA Extension + Memory model Extension + multi-core & multi-cluster(16 cores maximum) | Verilog | Alibaba commercial license
+XuanTie E902 | T-Head (Alibaba group) | [Website](https://www.t-head.cn/product/10?spm=a2ouz.12987052.0.0.3b0348ab3wX5ll) | 
+1.10 | RV32EMC/IMC/EC | Verilog | Alibaba commercial license
 
 ## SoC platforms
 
