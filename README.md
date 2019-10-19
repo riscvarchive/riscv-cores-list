@@ -57,6 +57,7 @@ Taiga | Reconfigurable Computing Lab, Simon Fraser University | [GitLab](https:/
 Maestro | João Chrisóstomo | [GitHub](https://github.com/Artoriuz/maestro) | | RV32I | VHDL | MIT
 XuanTie C910 | T-Head (Alibaba group) | [Website](https://www.t-head.cn/product/15?spm=a2ouz.12987052.0.0.3b0348ab46p9nv) | 1.10 |  RV64GCV + SV39 + ISA Extension + Memory model Extension + multi-core & multi-cluster(16 cores maximum) | Verilog | Alibaba commercial license
 XuanTie E902 | T-Head (Alibaba group) | [Website](https://www.t-head.cn/product/10?spm=a2ouz.12987052.0.0.3b0348ab3wX5ll) | 1.10 | RV32EMC/IMC/EC | Verilog | Alibaba commercial license
+SSRV | risclite | [Website](https://risclite.github.io/),[GitHub](https://github.com/risclite/SuperScalar-RISCV-CPU) | 1.10 | RV32IMC | Verilog | Apache 2.0 |
 
 ## SoC platforms
 
