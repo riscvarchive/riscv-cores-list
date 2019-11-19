@@ -57,6 +57,10 @@ Taiga | Reconfigurable Computing Lab, Simon Fraser University | [GitLab](https:/
 Maestro | João Chrisóstomo | [GitHub](https://github.com/Artoriuz/maestro) | | RV32I | VHDL | MIT
 XuanTie C910 | T-Head (Alibaba group) | [Website](https://www.t-head.cn/product/c910?spm=a2ouz.12987052.0.0.5c5c6245WIbjoG) | 1.10 |  RV64GCV + SV39 + ISA Extension + Memory model Extension + multi-core & multi-cluster(16 cores maximum) | Verilog | Alibaba commercial license
 XuanTie E902 | T-Head (Alibaba group) | [Website](https://www.t-head.cn/product/e902?spm=a2ouz.12987052.0.0.5c5c6245R2yhfA) | 1.10 | RV32EMC/IMC/EC | Verilog | Alibaba commercial license
+BM-310 | CloudBEAR | [Website](https://cloudbear.ru/bm_310.html) | 1.10 | RV32IMC | SystemVerilog | CloudBEAR Commercial License
+BI-350 | CloudBEAR | [Website](https://cloudbear.ru/bi_350.html) | 1.10 | RV32IMAFC + multi-core | SystemVerilog | CloudBEAR Commercial License
+BI-651 | CloudBEAR | [Website](https://cloudbear.ru/bi_651.html) | 1.10 | RV64GC + multi-core | SystemVerilog | CloudBEAR Commercial License
+BI-671 | CloudBEAR | [Website](https://cloudbear.ru/bi_671.html) | 1.10 | RV64GC + multi-core | SystemVerilog | CloudBEAR Commercial License
 
 ## SoC platforms
 
@@ -81,7 +85,7 @@ MIV RV32IMAF L1 AHB | Microchip | [Documentation](http://www.microsemi.com/index
 FreeStart AE250 | Andes | [Website](http://freestart.andestech.com/) | N22 | Andes FreeStart: Free for Evaluation
 Standard AE250 | Andes | [Website](http://www.andestech.com/en/products-solutions/andeshape-platforms/ae250-ahb-based-platform-pre-integrated-with-n22/), [IDE](http://www.andestech.com/en/products-solutions/andesight-ide/) | N22 | Andes Commerical License
 AE350 | Andes | [Website](http://www.andestech.com/en/products-solutions/andeshape-platforms/ae350-axi-based-platform-pre-integrated-with-n25f-nx25f-a25-ax25/), [IDE](http://www.andestech.com/en/products-solutions/andesight-ide/) | N25F, D25F, A25, A25MP, NX25F, AX25, AX25MP | Andes Commerical License
-SCR1 SDK | Syntacore | [GitHub](https://github.com/syntacore/scr1-sdk) | SCR1, SCRx | SHL 2.0 
+SCR1 SDK | Syntacore | [GitHub](https://github.com/syntacore/scr1-sdk) | SCR1, SCRx | SHL 2.0
 
 ## SoCs
 
