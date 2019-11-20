@@ -2,17 +2,7 @@
 
 This document captures the status of various cores and SoCs that endeavor to implement the RISC-V specification. Note that none of these cores/SoCs have passed the in-development RISC-V compliance suite.
 
-The current guidelines for an entry to be accepted to the list are:
-
-1) provide all data needed for the relevant table
-2) have a fleshed out README file / documentation / product page / website which describes the core/platform/SoC
-3) be possible to reproduce / use by third parties by either:
-
-  * being available for purchase from a commercial entity (especially for ASICs)
-  * providing instructions how to run it on an FPGA platform
-  * providing instructions how to run it in simulation
-
-Please add to the list and fix inaccuracies.
+Please add to the list and fix inaccuracies - see our [CONTRIBUTING file](https://github.com/riscv/riscv-cores-list/blob/master/CONTRIBUTING.md) for details.
 
 ## Cores
 
