@@ -64,6 +64,7 @@ BI-350 | CloudBEAR | [Website](https://cloudbear.ru/bi_350.html) | 1.10 | RV32IM
 BI-651 | CloudBEAR | [Website](https://cloudbear.ru/bi_651.html) | 1.10 | RV64GC + multi-core | SystemVerilog | CloudBEAR Commercial License
 BI-671 | CloudBEAR | [Website](https://cloudbear.ru/bi_671.html) | 1.10 | RV64GC + multi-core | SystemVerilog | CloudBEAR Commercial License
 SSRV | risclite | [Website](https://risclite.github.io/),[GitHub](https://github.com/risclite/SuperScalar-RISCV-CPU) | 1.10 | RV32IMC | Verilog | Apache 2.0
+Tinyriscv | Blue Liang | [GitHub](https://github.com/liangkangnan/tinyriscv) | | 2.1, RV32I | Verilog | Apache 2.0
 
 ## SoC platforms
 
