@@ -13,7 +13,7 @@ RV32IC_P5 | IQonIC Works | [Website](http://iqonicworks.com/risc-v-ip/) | 1.11 |
 RV32EC_FMP5 | IQonIC Works | [Website](http://iqonicworks.com/risc-v-ip/) | Custom | RV32EC | SystemVerilog | IQonIC Works Commercial License
 rocket | SiFive, UCB Bar| [GitHub](https://github.com/freechipsproject/rocket-chip) | 1.11-draft | 2.3-draft | Chisel | BSD
 freedom | SiFive | [GitHub](https://github.com/sifive/freedom) | 1.11-draft | 2.3-draft | Chisel | BSD
-Berkeley Out-of-Order Machine (BOOM) | Esperanto, UCB Bar | [GitHub](https://github.com/ucb-bar/riscv-boom) | 1.11-draft | 2.3-draft | Chisel | BSD
+Berkeley Out-of-Order Machine (BOOM) | UCB BAR | [Website](https://boom-core.org/),[GitHub](https://github.com/riscv-boom/riscv-boom) | 1.11-draft | 2.3-draft | Chisel | BSD
 ORCA | VectorBlox | [GitHub](https://github.com/vectorblox/orca) |  | RV32IM | VHDL | BSD
 RI5CY | ETH Zurich, Università di Bologna | [GitHub](https://github.com/pulp-platform/riscv) |  | RV32IMC | SystemVerilog | Solderpad Hardware License v. 0.51
 Ibex (formerly Zero-riscy) | lowRISC | [GitHub](https://github.com/lowRISC/ibex) | 1.11 | RV32I[M]C/RV32E[M]C | SystemVerilog | Apache 2.0
@@ -91,6 +91,7 @@ Standard AE250 | Andes | [Website](http://www.andestech.com/en/products-solution
 AE350 | Andes | [Website](http://www.andestech.com/en/products-solutions/andeshape-platforms/ae350-axi-based-platform-pre-integrated-with-n25f-nx25f-a25-ax25/), [IDE](http://www.andestech.com/en/products-solutions/andesight-ide/) | N25F, D25F, A25, A25MP, NX25F, AX25, AX25MP | Andes Commerical License
 SCR1 SDK | Syntacore | [GitHub](https://github.com/syntacore/scr1-sdk) | SCR1, SCRx | SHL 2.0
 ESP | SLD Group, Columbia University | [Website](https://esp.cs.columbia.edu), [GitHub](https://github.com/sld-columbia/esp) | Ariane | Apache 2.0
+Chipyard | UCB BAR | [GitHub](https://github.com/ucb-bar/chipyard),[Documentation](https://chipyard.readthedocs.io/en/latest/) | Rocket, BOOM | BSD
 
 ## SoCs
 
