@@ -13,7 +13,7 @@ RV32IC_P5 | IQonIC Works | [Website](http://iqonicworks.com/risc-v-ip/) | 1.11 |
 RV32EC_FMP5 | IQonIC Works | [Website](http://iqonicworks.com/risc-v-ip/) | Custom | RV32EC | SystemVerilog | IQonIC Works Commercial License
 rocket | SiFive, UCB Bar| [GitHub](https://github.com/freechipsproject/rocket-chip) | 1.11-draft | 2.3-draft | Chisel | BSD
 freedom | SiFive | [GitHub](https://github.com/sifive/freedom) | 1.11-draft | 2.3-draft | Chisel | BSD
-Berkeley Out-of-Order Machine (BOOM) | Esperanto, UCB Bar | [GitHub](https://github.com/ucb-bar/riscv-boom) | 1.11-draft | 2.3-draft | Chisel | BSD
+Berkeley Out-of-Order Machine (BOOM) | UCB BAR | [Website](https://boom-core.org/),[GitHub](https://github.com/riscv-boom/riscv-boom) | 1.11-draft | 2.3-draft | Chisel | BSD
 ORCA | VectorBlox | [GitHub](https://github.com/vectorblox/orca) |  | RV32IM | VHDL | BSD
 RI5CY | ETH Zurich, Università di Bologna | [GitHub](https://github.com/pulp-platform/riscv) |  | RV32IMC | SystemVerilog | Solderpad Hardware License v. 0.51
 Ibex (formerly Zero-riscy) | lowRISC | [GitHub](https://github.com/lowRISC/ibex) | 1.11 | RV32I[M]C/RV32E[M]C | SystemVerilog | Apache 2.0
@@ -37,6 +37,7 @@ PicoRV32 | Clifford Wolf | [GitHub](https://github.com/cliffordwolf/picorv32) | 
 MR1 | Tom Verbeure | [GitHub](https://github.com/tomverbeure/mr1) | | RV32I | SpinalHDL | Unlicense
 SERV | Olof Kindgren | [GitHub](https://github.com/olofk/serv) | | RV32I | Verilog | ISC
 SweRV EH1 | Western Digital Corporation | [GitHub](https://github.com/chipsalliance/Cores-SweRV) | | RV32IMC | SystemVerilog | Apache 2.0
+biRISC-V | UltraEmbedded | [GitHub](https://github.com/ultraembedded/biriscv) | 1.11 | RV32I[M] | Verilog | Apache 2.0
 Reve-R | Gavin Stark | [GitHub](https://github.com/atthecodeface/cdl_hardware) | 1.10 | RV32IMAC | CDL | Apache 2.0
 Bk3 | Codasip | [Website](http://www.codasip.com) | 1.10 | RV32EMC / RV32IM[F]C | Verilog | Codasip EULA
 Bk5 | Codasip | [Website](http://www.codasip.com) | 1.10 | RV32IM[F]C / RV64IM[F]C | Verilog | Codasip EULA
@@ -55,8 +56,6 @@ AX25MP | Andes | [Website](http://www.andestech.com/en/products-solutions/andesc
 Instant SoC | FPGA Cores | [Website](http://www.fpga-cores.com/instant-soc/) |  | RV32IM | VHDL | Free Non Commercial
 Taiga | Reconfigurable Computing Lab, Simon Fraser University | [GitLab](https://gitlab.com/sfu-rcl/Taiga) |  | RV32IMA | SystemVerilog | Apache 2.0
 Maestro | João Chrisóstomo | [GitHub](https://github.com/Artoriuz/maestro) | | RV32I | VHDL | MIT
-XuanTie C910 | T-Head (Alibaba group) | [Website](https://www.t-head.cn/product/15?spm=a2ouz.12987052.0.0.3b0348ab46p9nv) | 1.10 |  RV64GCV + SV39 + ISA Extension + Memory model Extension + multi-core & multi-cluster(16 cores maximum) | Verilog | Alibaba commercial license
-XuanTie E902 | T-Head (Alibaba group) | [Website](https://www.t-head.cn/product/10?spm=a2ouz.12987052.0.0.3b0348ab3wX5ll) | 1.10 | RV32EMC/IMC/EC | Verilog | Alibaba commercial license
 XuanTie C910 | T-Head (Alibaba group) | [Website](https://www.t-head.cn/product/c910?spm=a2ouz.12987052.0.0.5c5c6245WIbjoG) | 1.10 |  RV64GCV + SV39 + ISA Extension + Memory model Extension + multi-core & multi-cluster(16 cores maximum) | Verilog | Alibaba commercial license
 XuanTie E902 | T-Head (Alibaba group) | [Website](https://www.t-head.cn/product/e902?spm=a2ouz.12987052.0.0.5c5c6245R2yhfA) | 1.10 | RV32EMC/IMC/EC | Verilog | Alibaba commercial license
 BM-310 | CloudBEAR | [Website](https://cloudbear.ru/bm_310.html) | 1.10 | RV32IMC | SystemVerilog | CloudBEAR Commercial License
@@ -65,6 +64,8 @@ BI-651 | CloudBEAR | [Website](https://cloudbear.ru/bi_651.html) | 1.10 | RV64GC
 BI-671 | CloudBEAR | [Website](https://cloudbear.ru/bi_671.html) | 1.10 | RV64GC + multi-core | SystemVerilog | CloudBEAR Commercial License
 SSRV | risclite | [Website](https://risclite.github.io/),[GitHub](https://github.com/risclite/SuperScalar-RISCV-CPU) | 1.10 | RV32IMC | Verilog | Apache 2.0
 Tinyriscv | Blue Liang | [GitHub](https://github.com/liangkangnan/tinyriscv) | | 2.1, RV32I | Verilog | Apache 2.0
+RSD | rsd-devel | [GitHub](https://github.com/rsd-devel/rsd) | | RV32IM | SystemVerilog | Apache 2.0
+Pluto | PQShield | [Website](https://pqsoc.com) | 1.11 | RV32I[M][C] / RV32E[M][C] + Crypto Functions | Verilog | PQShield Commercial License
 
 ## SoC platforms
 
@@ -91,6 +92,8 @@ Standard AE250 | Andes | [Website](http://www.andestech.com/en/products-solution
 AE350 | Andes | [Website](http://www.andestech.com/en/products-solutions/andeshape-platforms/ae350-axi-based-platform-pre-integrated-with-n25f-nx25f-a25-ax25/), [IDE](http://www.andestech.com/en/products-solutions/andesight-ide/) | N25F, D25F, A25, A25MP, NX25F, AX25, AX25MP | Andes Commerical License
 SCR1 SDK | Syntacore | [GitHub](https://github.com/syntacore/scr1-sdk) | SCR1, SCRx | SHL 2.0
 ESP | SLD Group, Columbia University | [Website](https://esp.cs.columbia.edu), [GitHub](https://github.com/sld-columbia/esp) | Ariane | Apache 2.0
+Chipyard | UCB BAR | [GitHub](https://github.com/ucb-bar/chipyard),[Documentation](https://chipyard.readthedocs.io/en/latest/) | Rocket, BOOM | BSD
+PQSoC | PQShield | [Website](https://pqsoc.com) | Pluto | PQShield Commercial License
 
 ## SoCs
 
