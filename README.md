@@ -66,6 +66,7 @@ SSRV | risclite | [Website](https://risclite.github.io/),[GitHub](https://github
 Tinyriscv | Blue Liang | [GitHub](https://github.com/liangkangnan/tinyriscv) | | 2.1, RV32I | Verilog | Apache 2.0
 RSD | rsd-devel | [GitHub](https://github.com/rsd-devel/rsd) | | RV32IM | SystemVerilog | Apache 2.0
 Pluto | PQShield | [Website](https://pqsoc.com) | 1.11 | RV32I[M][C] / RV32E[M][C] + Crypto Functions | Verilog | PQShield Commercial License
+Kronos | Sonal Pinto | [GitHub](https://github.com/SonalPinto/kronos) | | RV32I | SystemVerilog | Apache 2.0
 
 ## SoC platforms
 
@@ -94,6 +95,7 @@ SCR1 SDK | Syntacore | [GitHub](https://github.com/syntacore/scr1-sdk) | SCR1, S
 ESP | SLD Group, Columbia University | [Website](https://esp.cs.columbia.edu), [GitHub](https://github.com/sld-columbia/esp) | Ariane | Apache 2.0
 Chipyard | UCB BAR | [GitHub](https://github.com/ucb-bar/chipyard),[Documentation](https://chipyard.readthedocs.io/en/latest/) | Rocket, BOOM | BSD
 PQSoC | PQShield | [Website](https://pqsoc.com) | Pluto | PQShield Commercial License
+KRZ | Sonal Pinto | [GitHub](https://github.com/SonalPinto/kronos) | Kronos | Apache 2.0
 
 ## SoCs
 
