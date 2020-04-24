@@ -37,6 +37,7 @@ PicoRV32 | Clifford Wolf | [GitHub](https://github.com/cliffordwolf/picorv32) | 
 MR1 | Tom Verbeure | [GitHub](https://github.com/tomverbeure/mr1) | | RV32I | SpinalHDL | Unlicense
 SERV | Olof Kindgren | [GitHub](https://github.com/olofk/serv) | | RV32I | Verilog | ISC
 SweRV EH1 | Western Digital Corporation | [GitHub](https://github.com/chipsalliance/Cores-SweRV) | | RV32IMC | SystemVerilog | Apache 2.0
+biRISC-V | UltraEmbedded | [GitHub](https://github.com/ultraembedded/biriscv) | 1.11 | RV32I[M] | Verilog | Apache 2.0
 Reve-R | Gavin Stark | [GitHub](https://github.com/atthecodeface/cdl_hardware) | 1.10 | RV32IMAC | CDL | Apache 2.0
 Bk3 | Codasip | [Website](http://www.codasip.com) | 1.10 | RV32EMC / RV32IM[F]C | Verilog | Codasip EULA
 Bk5 | Codasip | [Website](http://www.codasip.com) | 1.10 | RV32IM[F]C / RV64IM[F]C | Verilog | Codasip EULA
@@ -62,7 +63,9 @@ BI-350 | CloudBEAR | [Website](https://cloudbear.ru/bi_350.html) | 1.10 | RV32IM
 BI-651 | CloudBEAR | [Website](https://cloudbear.ru/bi_651.html) | 1.10 | RV64GC + multi-core | SystemVerilog | CloudBEAR Commercial License
 BI-671 | CloudBEAR | [Website](https://cloudbear.ru/bi_671.html) | 1.10 | RV64GC + multi-core | SystemVerilog | CloudBEAR Commercial License
 SSRV | risclite | [Website](https://risclite.github.io/),[GitHub](https://github.com/risclite/SuperScalar-RISCV-CPU) | 1.10 | RV32IMC | Verilog | Apache 2.0
-<<<<<<< HEAD
+Tinyriscv | Blue Liang | [GitHub](https://github.com/liangkangnan/tinyriscv) | | 2.1, RV32I | Verilog | Apache 2.0
+RSD | rsd-devel | [GitHub](https://github.com/rsd-devel/rsd) | | RV32IM | SystemVerilog | Apache 2.0
+Pluto | PQShield | [Website](https://pqsoc.com) | 1.11 | RV32I[M][C] / RV32E[M][C] + Crypto Functions | Verilog | PQShield Commercial License
 E2 | SiFive | [Website](https://www.sifive.com/cores/e24) | 1.11 | RV32I(E)MAFC 2.2 | Verilog | SiFive commercial license
 S2 | SiFive | [Website](https://www.sifive.com/cores/s21) | 1.11 | RV64GC 2.2 | Verilog | SiFive commercial license
 E3 | SiFive | [Website](https://www.sifive.com/cores/e34) | 1.11 | RV32I(E)MAFDC 2.2 | Verilog | SiFive commercial license
@@ -71,10 +74,6 @@ U5 | SiFive | [Website](https://www.sifive.com/cores/u54) | 1.11 | RV64GC 2.2 | 
 E7 | SiFive | [Website](https://www.sifive.com/cores/e76) | 1.11 | RV32I(E)MAFDC 2.2 | Verilog | SiFive commercial license
 S7 | SiFive | [Website](https://www.sifive.com/cores/s76) | 1.11 | RV64GC 2.2 | Verilog | SiFive commercial license
 U7 | SiFive | [Website](https://www.sifive.com/cores/u74) | 1.11 | RV64GC 2.2 | Verilog | SiFive commercial license
-=======
-RSD | rsd-devel | [GitHub](https://github.com/rsd-devel/rsd) | | RV32IM | SystemVerilog | Apache 2.0
-Pluto | PQShield | [Website](https://pqsoc.com) | 1.11 | RV32I[M][C] / RV32E[M][C] + Crypto Functions | Verilog | PQShield Commercial License
->>>>>>> c5b2812b3275fc846e8c9bb03bd13c4cbdc6ab88
 
 ## SoC platforms
 
