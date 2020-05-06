@@ -66,6 +66,14 @@ SSRV | risclite | [Website](https://risclite.github.io/),[GitHub](https://github
 Tinyriscv | Blue Liang | [GitHub](https://github.com/liangkangnan/tinyriscv) | | 2.1, RV32I | Verilog | Apache 2.0
 RSD | rsd-devel | [GitHub](https://github.com/rsd-devel/rsd) | | RV32IM | SystemVerilog | Apache 2.0
 Pluto | PQShield | [Website](https://pqsoc.com) | 1.11 | RV32I[M][C] / RV32E[M][C] + Crypto Functions | Verilog | PQShield Commercial License
+E2 | SiFive | [Website](https://www.sifive.com/cores/e24) | 1.11 | RV32I(E)MAFC 2.2 | Verilog | SiFive commercial license
+S2 | SiFive | [Website](https://www.sifive.com/cores/s21) | 1.11 | RV64GC 2.2 | Verilog | SiFive commercial license
+E3 | SiFive | [Website](https://www.sifive.com/cores/e34) | 1.11 | RV32I(E)MAFDC 2.2 | Verilog | SiFive commercial license
+S5 | SiFive | [Website](https://www.sifive.com/cores/s54) | 1.11 | RV64GC 2.2 | Verilog | SiFive commercial license
+U5 | SiFive | [Website](https://www.sifive.com/cores/u54) | 1.11 | RV64GC 2.2 | Verilog | SiFive commercial license
+E7 | SiFive | [Website](https://www.sifive.com/cores/e76) | 1.11 | RV32I(E)MAFDC 2.2 | Verilog | SiFive commercial license
+S7 | SiFive | [Website](https://www.sifive.com/cores/s76) | 1.11 | RV64GC 2.2 | Verilog | SiFive commercial license
+U7 | SiFive | [Website](https://www.sifive.com/cores/u74) | 1.11 | RV64GC 2.2 | Verilog | SiFive commercial license
 Kronos | Sonal Pinto | [GitHub](https://github.com/SonalPinto/kronos) | | RV32I | SystemVerilog | Apache 2.0
 
 ## SoC platforms
