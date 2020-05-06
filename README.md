@@ -74,6 +74,7 @@ U5 | SiFive | [Website](https://www.sifive.com/cores/u54) | 1.11 | RV64GC 2.2 | 
 E7 | SiFive | [Website](https://www.sifive.com/cores/e76) | 1.11 | RV32I(E)MAFDC 2.2 | Verilog | SiFive commercial license
 S7 | SiFive | [Website](https://www.sifive.com/cores/s76) | 1.11 | RV64GC 2.2 | Verilog | SiFive commercial license
 U7 | SiFive | [Website](https://www.sifive.com/cores/u74) | 1.11 | RV64GC 2.2 | Verilog | SiFive commercial license
+Kronos | Sonal Pinto | [GitHub](https://github.com/SonalPinto/kronos) | | RV32I | SystemVerilog | Apache 2.0
 
 ## SoC platforms
 
@@ -102,6 +103,7 @@ SCR1 SDK | Syntacore | [GitHub](https://github.com/syntacore/scr1-sdk) | SCR1, S
 ESP | SLD Group, Columbia University | [Website](https://esp.cs.columbia.edu), [GitHub](https://github.com/sld-columbia/esp) | Ariane | Apache 2.0
 Chipyard | UCB BAR | [GitHub](https://github.com/ucb-bar/chipyard),[Documentation](https://chipyard.readthedocs.io/en/latest/) | Rocket, BOOM | BSD
 PQSoC | PQShield | [Website](https://pqsoc.com) | Pluto | PQShield Commercial License
+KRZ | Sonal Pinto | [GitHub](https://github.com/SonalPinto/kronos) | Kronos | Apache 2.0
 
 ## SoCs
 
