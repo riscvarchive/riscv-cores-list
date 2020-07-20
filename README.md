@@ -77,6 +77,7 @@ E7 | SiFive | [Website](https://www.sifive.com/cores/e76) | 1.11 | RV32I(E)MAFDC
 S7 | SiFive | [Website](https://www.sifive.com/cores/s76) | 1.11 | RV64GC 2.2 | Verilog | SiFive commercial license
 U7 | SiFive | [Website](https://www.sifive.com/cores/u74) | 1.11 | RV64GC 2.2 | Verilog | SiFive commercial license
 Kronos | Sonal Pinto | [GitHub](https://github.com/SonalPinto/kronos) | | RV32I | SystemVerilog | Apache 2.0
+NEORV32 | Stephan Nolting | [GitHub](https://github.com/stnolting/neorv32) | 1.12-draft | 2.2, RV32[I/E][M][C] | VHDL | BSD
 
 ## SoC platforms
 
