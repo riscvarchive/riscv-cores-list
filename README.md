@@ -106,6 +106,7 @@ ESP | SLD Group, Columbia University | [Website](https://esp.cs.columbia.edu), [
 Chipyard | UCB BAR | [GitHub](https://github.com/ucb-bar/chipyard),[Documentation](https://chipyard.readthedocs.io/en/latest/) | Rocket, BOOM | BSD
 PQSoC | PQShield | [Website](https://pqsoc.com) | Pluto | PQShield Commercial License
 KRZ | Sonal Pinto | [GitHub](https://github.com/SonalPinto/kronos) | Kronos | Apache 2.0
+IOb-SoC | IObundle | [GitHub](https://github.com/IObundle/iob-soc) | PicoRV32 | MIT
 
 ## SoCs
 
