@@ -77,7 +77,7 @@ E7 | SiFive | [Website](https://www.sifive.com/cores/e76) | 1.11 | RV32I(E)MAFDC
 S7 | SiFive | [Website](https://www.sifive.com/cores/s76) | 1.11 | RV64GC 2.2 | Verilog | SiFive commercial license
 U7 | SiFive | [Website](https://www.sifive.com/cores/u74) | 1.11 | RV64GC 2.2 | Verilog | SiFive commercial license
 Kronos | Sonal Pinto | [GitHub](https://github.com/SonalPinto/kronos) | | RV32I | SystemVerilog | Apache 2.0
-Steel | Rafael Calcada | [GitHub](https://github.com/rafaelcalcada/steel-core) | 20190608 | RV32IZicsr | Verilog | MIT License
+Steel | Rafael Calcada | [GitHub](https://github.com/rafaelcalcada/steel-core) | 1.11 | RV32IZicsr | Verilog | MIT License
 
 ## SoC platforms
 
