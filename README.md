@@ -77,6 +77,12 @@ E7 | SiFive | [Website](https://www.sifive.com/cores/e76) | 1.11 | RV32I(E)MAFDC
 S7 | SiFive | [Website](https://www.sifive.com/cores/s76) | 1.11 | RV64GC 2.2 | Verilog | SiFive commercial license
 U7 | SiFive | [Website](https://www.sifive.com/cores/u74) | 1.11 | RV64GC 2.2 | Verilog | SiFive commercial license
 Kronos | Sonal Pinto | [GitHub](https://github.com/SonalPinto/kronos) | | RV32I | SystemVerilog | Apache 2.0
+N100 | Nuclei | [Website](https://www.nucleisys.com/product.php) | 1.11 | RV32EC | Verilog | Nuclei commercial license
+N200 | Nuclei | [Website](https://www.nucleisys.com/product.php) | 1.11 | RV32IC(E)(M)(A) | Verilog | Nuclei commercial license
+N300 | Nuclei | [Website](https://www.nucleisys.com/product.php) | 1.11 | RV32IMAC(F)(D)(P) | Verilog | Nuclei commercial license
+N600 | Nuclei | [Website](https://www.nucleisys.com/product.php) | 1.11 | RV32IMAC(F)(D)(P) | Verilog | Nuclei commercial license
+NX600 | Nuclei | [Website](https://www.nucleisys.com/product.php) | 1.11 | RV64IMAC(F)(D)(P) | Verilog | Nuclei commercial license
+UX600 | Nuclei | [Website](https://www.nucleisys.com/product.php) | 1.11 | RV64IMAC(F)(D)(P) + MMU-SV39 | Verilog | Nuclei commercial license
 
 ## SoC platforms
 
