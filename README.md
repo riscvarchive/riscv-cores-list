@@ -85,6 +85,7 @@ NX600 | Nuclei | [Website](https://www.nucleisys.com/product.php) | 1.11 | RV64I
 UX600 | Nuclei | [Website](https://www.nucleisys.com/product.php) | 1.11 | RV64IMAC(F)(D)(P) + MMU-SV39 | Verilog | Nuclei commercial license
 WH32 | UC Techip | [Website](https://www.uctechip.com/#product) | 1.10 | RV32GCX | Chisel | UC Techip Commercial License
 WARP-V | Steve Hoover, Redwood EDA | [GitHub](https://github.com/stevehoover/warp-v) |  | RV32I[M][F] | TL-Verilog | BSD
+NEORV32 | Stephan Nolting | [GitHub](https://github.com/stnolting/neorv32) | 1.12-draft | 2.2, RV32[I/E][M][C] | VHDL | BSD
 
 ## SoC platforms
 
