@@ -77,6 +77,15 @@ E7 | SiFive | [Website](https://www.sifive.com/cores/e76) | 1.11 | RV32I(E)MAFDC
 S7 | SiFive | [Website](https://www.sifive.com/cores/s76) | 1.11 | RV64GC 2.2 | Verilog | SiFive commercial license
 U7 | SiFive | [Website](https://www.sifive.com/cores/u74) | 1.11 | RV64GC 2.2 | Verilog | SiFive commercial license
 Kronos | Sonal Pinto | [GitHub](https://github.com/SonalPinto/kronos) | | RV32I | SystemVerilog | Apache 2.0
+N100 | Nuclei | [Website](https://www.nucleisys.com/product.php) | 1.11 | RV32EC | Verilog | Nuclei commercial license
+N200 | Nuclei | [Website](https://www.nucleisys.com/product.php) | 1.11 | RV32IC(E)(M)(A) | Verilog | Nuclei commercial license
+N300 | Nuclei | [Website](https://www.nucleisys.com/product.php) | 1.11 | RV32IMAC(F)(D)(P) | Verilog | Nuclei commercial license
+N600 | Nuclei | [Website](https://www.nucleisys.com/product.php) | 1.11 | RV32IMAC(F)(D)(P) | Verilog | Nuclei commercial license
+NX600 | Nuclei | [Website](https://www.nucleisys.com/product.php) | 1.11 | RV64IMAC(F)(D)(P) | Verilog | Nuclei commercial license
+UX600 | Nuclei | [Website](https://www.nucleisys.com/product.php) | 1.11 | RV64IMAC(F)(D)(P) + MMU-SV39 | Verilog | Nuclei commercial license
+WH32 | UC Techip | [Website](https://www.uctechip.com/#product) | 1.10 | RV32GCX | Chisel | UC Techip Commercial License
+WARP-V | Steve Hoover, Redwood EDA | [GitHub](https://github.com/stevehoover/warp-v) |  | RV32I[M][F] | TL-Verilog | BSD
+NEORV32 | Stephan Nolting | [GitHub](https://github.com/stnolting/neorv32) | 1.12-draft | 2.2, RV32[I/E][M][C] | VHDL | BSD
 Steel | Rafael Calcada | [GitHub](https://github.com/rafaelcalcada/steel-core) | 1.11 | RV32IZicsr | Verilog | MIT License
 
 ## SoC platforms
@@ -99,6 +108,7 @@ Icicle | Graham Edgecombe | [GitHub](https://github.com/grahamedgecombe/icicle) 
 MIV RV32IMA L1 AHB | Microchip | [Documentation](http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=1243779), [IDE](https://www.microsemi.com/product-directory/design-tools/4879-softconsole), [Development Environment](https://www.microsemi.com/product-directory/design-resources/1750-libero-soc) | Rocket RV32IMA | Apache 2.0
 MIV RV32IMA L1 AXI | Microchip | [Documentation](http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=1243780), [IDE](https://www.microsemi.com/product-directory/design-tools/4879-softconsole), [Development Environment](https://www.microsemi.com/product-directory/design-resources/1750-libero-soc) | Rocket RV32IMA | Apache 2.0
 MIV RV32IMAF L1 AHB | Microchip | [Documentation](http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=1243781), [IDE](https://www.microsemi.com/product-directory/design-tools/4879-softconsole), [Development Environment](https://www.microsemi.com/product-directory/design-resources/1750-libero-soc) | Rocket RV32IMAF | Apache 2.0
+MIV RV32IMC | Microchip | [Documentation](https://www.microsemi.com/document-portal/doc_download/1244850-mi-vrv32imc), [IDE](https://www.microsemi.com/product-directory/design-tools/4879-softconsole), [Development Environment](https://www.microsemi.com/product-directory/design-resources/1750-libero-soc) | Submicron RV32I, RV32IC, RV32IM, RV32IMC | Apache 2.0
 FreeStart AE250 | Andes | [Website](http://freestart.andestech.com/) | N22 | Andes FreeStart: Free for Evaluation
 Standard AE250 | Andes | [Website](http://www.andestech.com/en/products-solutions/andeshape-platforms/ae250-ahb-based-platform-pre-integrated-with-n22/), [IDE](http://www.andestech.com/en/products-solutions/andesight-ide/) | N22 | Andes Commerical License
 AE350 | Andes | [Website](http://www.andestech.com/en/products-solutions/andeshape-platforms/ae350-axi-based-platform-pre-integrated-with-n25f-nx25f-a25-ax25/), [IDE](http://www.andestech.com/en/products-solutions/andesight-ide/) | N25F, D25F, A25, A25MP, NX25F, AX25, AX25MP | Andes Commerical License
@@ -107,6 +117,7 @@ ESP | SLD Group, Columbia University | [Website](https://esp.cs.columbia.edu), [
 Chipyard | UCB BAR | [GitHub](https://github.com/ucb-bar/chipyard),[Documentation](https://chipyard.readthedocs.io/en/latest/) | Rocket, BOOM | BSD
 PQSoC | PQShield | [Website](https://pqsoc.com) | Pluto | PQShield Commercial License
 KRZ | Sonal Pinto | [GitHub](https://github.com/SonalPinto/kronos) | Kronos | Apache 2.0
+IOb-SoC | IObundle | [GitHub](https://github.com/IObundle/iob-soc) | PicoRV32 | MIT
 
 ## SoCs
 
@@ -122,5 +133,7 @@ GAP8 | GreenWaves Technologies | [Product page](https://greenwaves-technologies.
 K210 | Kendryte | [Product page](https://kendryte.com/#products), [Datasheet](https://s3.cn-north-1.amazonaws.com.cn/dl.kendryte.com/documents/kendryte_datasheet_20181011163248_en.pdf), [GitHub](https://github.com/kendryte) | K210 | RV64GC | Linux | [KD233 development board](https://www.analoglamb.com/product/dual-core-risc-v-64bit-k210-ai-board-kendryte-kd233/), [Sipeed MAIX/M1 development boards](https://www.seeedstudio.com/Artificial-Intelligence/Machine-Learning-c-1220/Computer-Vision-c-1221.html?product_list_order=name) | public since 2018Q4
 RV32M1 | NXP | [Reference Manual and Datasheet](https://github.com/open-isa-org/open-isa.org/tree/master/Reference%20Manual%20and%20Data%20Sheet) | RI5CY + Zero RI5CY + Arm Cortex M4F + Arm Cortex M0+ | RV32IMC | RTOS | [VEGAboard](https://open-isa.org/) | available for preorder as of 2018Q4
 RavenRV32 | efabless | [Datasheet](https://ef.link/raven), [GitHub](https://github.com/efabless/raven-picorv32) | PicoRV32 | RV32IMAC | RTOS | RavenRV32 DevKit | Limited Quantity
-PolarFire SoC | Microchip | [Product Page](https://www.microsemi.com/product-directory/soc-fpgas/5498-polarfire-soc-fpga), [IDE with Renode platform](https://www.microsemi.com/product-directory/design-tools/4879-softconsole) | U54 (4 cores), E51 (management core) | RV64GC(U54), RV64IMAC(E51) | Linux | [HiFive Unleashed Expansion Board](https://www.microsemi.com/hifive-unleashed-expansion-board), PolarFire SoC | HiFive Unleased Expansion Board - Q2 2018, PolarFire Soc – announced December 2018
+PolarFire SoC | Microchip | [Product Page](https://www.microsemi.com/product-directory/soc-fpgas/5498-polarfire-soc-fpga), [IDE with Renode platform](https://www.microsemi.com/product-directory/design-tools/4879-softconsole) | U54 (4 cores), E51 (management core) | RV64GC(U54), RV64IMAC(E51) | Linux | [Microchip Icicle Kit](https://www.microsemi.com/existing-parts/parts/152514), [HiFive Unleashed Expansion Board](https://www.microsemi.com/hifive-unleashed-expansion-board) | Icicle Kit ES available Q3 2020, HiFive Unleased Expansion Board - Q2 2018
 GD32VF103 | GigaDevice | [Product listing](https://www.gigadevice.com/products/product-finder/?fwp_processor_type=risc-v&fwp_microcontrollers_product_line=mainstream&fwp_microcontrollers_product_series=gd32vf103),[Datasheets](https://github.com/riscv-mcu/GD32VF103_DataSheets) | [Bumblebee Core](http://dl.sipeed.com/LONGAN/Nano/DOC/Bumblebee%20core%20datasheet_en.pdf) | RV32IMAC | RTOS | GD32VF103V-EVAL, [Longan Nano](http://longan.sipeed.com/) etc.| Public since 2019Q4
+CH572, CH573 | WCH | [Product Page](http://www.wch.cn/products/CH573.html) | RISC-V3A | RV32IMAC | RTOS | | public since 2019Q1
+CH32F103 | WCH | [Product Page](http://www.wch.cn/products/CH32V103.html) [Datasheet](http://www.wch.cn/downloads/file/311.html) | RISC-V3A | RV32IMAC | RTOS | | public since 2020Q2
