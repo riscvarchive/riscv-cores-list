@@ -86,7 +86,7 @@ WH32 | UC Techip | [Website](https://www.uctechip.com/#product) | RV32 | 1.10 | 
 WARP-V | Steve Hoover, Redwood EDA | [GitHub](https://github.com/stevehoover/warp-v) | RV32 |  | RV32I[M][F] | TL-Verilog | BSD
 NEORV32 | Stephan Nolting | [GitHub](https://github.com/stnolting/neorv32) | RV32 | 1.12-draft | 2.2, RV32[I/E][M][C] | VHDL | BSD
 Steel | Rafael Calcada | [GitHub](https://github.com/rafaelcalcada/steel-core) | RV32 | 1.11 | RV32IZicsr | Verilog | MIT License
-Klessydra-T13 | Digital Systems Lab at Sapienza University of Rome | [GitHub](https://github.com/klessydra/T13x) | RV32 | 1.11 | RV32I/E[M][A] + Kless-Vect | VHDL-2008 | Solderpad Hardware License v. 0.51
+Klessydra-T13 | Digital Systems Lab at Sapienza University of Rome | [GitHub](https://github.com/klessydra/T13x) | RV32 | 1.11 | RV32[I/E][M][A] + Kless-Vect | VHDL-2008 | Solderpad Hardware License v. 0.51
 Klessydra-T03 | Digital Systems Lab at Sapienza University of Rome | [GitHub](https://github.com/klessydra/T03x) | RV32 | 1.11 | RV32I[A] | VHDL-2008 | Solderpad Hardware License v. 0.51
 Klessydra-T02 | Digital Systems Lab at Sapienza University of Rome | [GitHub](https://github.com/klessydra/T02x) | RV32 | 1.11 | RV32I[A] | VHDL-2008 | Solderpad Hardware License v. 0.51
 Klessydra-F03 | Digital Systems Lab at Sapienza University of Rome | [GitHub](https://github.com/klessydra/F03x) | RV32 | 1.11 | RV32I[A] | VHDL-2008 | Solderpad Hardware License v. 0.51
