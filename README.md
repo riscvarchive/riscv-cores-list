@@ -8,6 +8,10 @@ Please add to the list and fix inaccuracies - see our [CONTRIBUTING file](https:
 
 Name | Supplier | Links | Capability | Priv. spec | User spec | Primary Language | License
 ---- | -------- | ----- | ---------- | ---------- | --------- | ---------------- | -------
+Klessydra-T13 | Digital Systems Lab at Sapienza University of Rome | [GitHub](https://github.com/klessydra/T13x) | RV32 | 1.11 | RV32I/E[M][A] + Kless-Vect | VHDL-2008 | Solderpad Hardware License v. 0.51
+Klessydra-T03 | Digital Systems Lab at Sapienza University of Rome | [GitHub](https://github.com/klessydra/T03x) | RV32 | 1.11 | RV32I[A] | VHDL-2008 | Solderpad Hardware License v. 0.51
+Klessydra-T02 | Digital Systems Lab at Sapienza University of Rome | [GitHub](https://github.com/klessydra/T02x) | RV32 | 1.11 | RV32I[A] | VHDL-2008 | Solderpad Hardware License v. 0.51
+Klessydra-F03 | Digital Systems Lab at Sapienza University of Rome | [GitHub](https://github.com/klessydra/F03x) | RV32 | 1.11 | RV32I[A] | VHDL-2008 | Solderpad Hardware License v. 0.51
 RV32EC_P2 | IQonIC Works | [Website](http://iqonicworks.com/risc-v-ip/) | RV32 | 1.11 | RV32E[M]C/RV32I[M]C | SystemVerilog | IQonIC Works Commercial License
 RV32IC_P5 | IQonIC Works | [Website](http://iqonicworks.com/risc-v-ip/) | RV32 | 1.11 | RV32I[M][N][A]C | SystemVerilog | IQonIC Works Commercial License
 RV32EC_FMP5 | IQonIC Works | [Website](http://iqonicworks.com/risc-v-ip/) | RV32 | Custom | RV32EC | SystemVerilog | IQonIC Works Commercial License
