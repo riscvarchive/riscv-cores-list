@@ -90,7 +90,7 @@ Klessydra-T13 | Digital Systems Lab at Sapienza University of Rome | [GitHub](ht
 Klessydra-T03 | Digital Systems Lab at Sapienza University of Rome | [GitHub](https://github.com/klessydra/T03x) | RV32 | 1.11 | RV32I[A] | VHDL-2008 | Solderpad Hardware License v. 0.51
 Klessydra-T02 | Digital Systems Lab at Sapienza University of Rome | [GitHub](https://github.com/klessydra/T02x) | RV32 | 1.11 | RV32I[A] | VHDL-2008 | Solderpad Hardware License v. 0.51
 Klessydra-F03 | Digital Systems Lab at Sapienza University of Rome | [GitHub](https://github.com/klessydra/F03x) | RV32 | 1.11 | RV32I[A] | VHDL-2008 | Solderpad Hardware License v. 0.51
-Starsea_riscv | starsea | [GitHub](https://github.com/haogwb/starsea_riscv) | RV32 | RV32I | Apache 2.0
+Starsea_riscv | Starsea | [GitHub](https://github.com/haogwb/starsea_riscv) | RV32 | | RV32I | Verilog | Apache 2.0
 
 ## SoC platforms
 
