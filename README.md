@@ -121,6 +121,8 @@ Chipyard | UCB BAR | [GitHub](https://github.com/ucb-bar/chipyard),[Documentatio
 PQSoC | PQShield | [Website](https://pqsoc.com) | RV32 | Pluto | PQShield Commercial License
 KRZ | Sonal Pinto | [GitHub](https://github.com/SonalPinto/kronos) | RV32 | Kronos | Apache 2.0
 IOb-SoC | IObundle | [GitHub](https://github.com/IObundle/iob-soc) | RV32 | PicoRV32 | MIT
+starsea_riscv | starsea | [GitHub](https://github.com/haogwb/starsea_riscv) | RV32 | RV32I | Apache 2.0
+
 
 ## SoCs
 
