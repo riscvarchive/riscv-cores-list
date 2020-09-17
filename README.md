@@ -90,6 +90,7 @@ Klessydra-T13 | Digital Systems Lab at Sapienza University of Rome | [GitHub](ht
 Klessydra-T03 | Digital Systems Lab at Sapienza University of Rome | [GitHub](https://github.com/klessydra/T03x) | RV32 | 1.11 | RV32I[A] | VHDL-2008 | Solderpad Hardware License v. 0.51
 Klessydra-T02 | Digital Systems Lab at Sapienza University of Rome | [GitHub](https://github.com/klessydra/T02x) | RV32 | 1.11 | RV32I[A] | VHDL-2008 | Solderpad Hardware License v. 0.51
 Klessydra-F03 | Digital Systems Lab at Sapienza University of Rome | [GitHub](https://github.com/klessydra/F03x) | RV32 | 1.11 | RV32I[A] | VHDL-2008 | Solderpad Hardware License v. 0.51
+MYTH Cores | MYTH Workshop students | [GitHub](https://github.com/stevehoover/RISC-V_MYTH_Workshop/blob/master/student_projects.md) | RV32 |  | RV32I | TL-Verilog | BSD
 
 ## SoC platforms
 
