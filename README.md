@@ -90,6 +90,7 @@ Klessydra-T13 | Digital Systems Lab at Sapienza University of Rome | [GitHub](ht
 Klessydra-T03 | Digital Systems Lab at Sapienza University of Rome | [GitHub](https://github.com/klessydra/T03x) | RV32 | 1.11 | RV32I[A] | VHDL-2008 | Solderpad Hardware License v. 0.51
 Klessydra-T02 | Digital Systems Lab at Sapienza University of Rome | [GitHub](https://github.com/klessydra/T02x) | RV32 | 1.11 | RV32I[A] | VHDL-2008 | Solderpad Hardware License v. 0.51
 Klessydra-F03 | Digital Systems Lab at Sapienza University of Rome | [GitHub](https://github.com/klessydra/F03x) | RV32 | 1.11 | RV32I[A] | VHDL-2008 | Solderpad Hardware License v. 0.51
+VEGA | C-DAC | [Website](https://vegaprocessors.in/) | RV32, RV64 | 1.10 |  2.2, RV[32/64]IMA[F][D][C], Multi-core | Bluespec | commercial
 
 ## SoC platforms
 
