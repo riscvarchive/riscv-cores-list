@@ -90,7 +90,9 @@ Klessydra-T13 | Digital Systems Lab at Sapienza University of Rome | [GitHub](ht
 Klessydra-T03 | Digital Systems Lab at Sapienza University of Rome | [GitHub](https://github.com/klessydra/T03x) | RV32 | 1.11 | RV32I[A] | VHDL-2008 | Solderpad Hardware License v. 0.51
 Klessydra-T02 | Digital Systems Lab at Sapienza University of Rome | [GitHub](https://github.com/klessydra/T02x) | RV32 | 1.11 | RV32I[A] | VHDL-2008 | Solderpad Hardware License v. 0.51
 Klessydra-F03 | Digital Systems Lab at Sapienza University of Rome | [GitHub](https://github.com/klessydra/F03x) | RV32 | 1.11 | RV32I[A] | VHDL-2008 | Solderpad Hardware License v. 0.51
+Starsea_riscv | Starsea | [GitHub](https://github.com/haogwb/starsea_riscv) | RV32 | | RV32I | Verilog | Apache 2.0
 VEGA | C-DAC | [Website](https://vegaprocessors.in/) | RV32, RV64 | 1.10 |  2.2, RV[32/64]IMA[F][D][C], Multi-core | Bluespec | commercial
+
 
 ## SoC platforms
 
@@ -122,6 +124,7 @@ Chipyard | UCB BAR | [GitHub](https://github.com/ucb-bar/chipyard),[Documentatio
 PQSoC | PQShield | [Website](https://pqsoc.com) | RV32 | Pluto | PQShield Commercial License
 KRZ | Sonal Pinto | [GitHub](https://github.com/SonalPinto/kronos) | RV32 | Kronos | Apache 2.0
 IOb-SoC | IObundle | [GitHub](https://github.com/IObundle/iob-soc) | RV32 | PicoRV32 | MIT
+
 
 ## SoCs
 
