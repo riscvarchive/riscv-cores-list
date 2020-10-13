@@ -93,6 +93,7 @@ Klessydra-F03 | Digital Systems Lab at Sapienza University of Rome | [GitHub](ht
 MYTH Cores | MYTH Workshop students | [GitHub](https://github.com/stevehoover/RISC-V_MYTH_Workshop/blob/master/student_projects.md) | RV32 |  | RV32I | TL-Verilog | BSD
 Starsea_riscv | Starsea | [GitHub](https://github.com/haogwb/starsea_riscv) | RV32 | | RV32I | Verilog | Apache 2.0
 VEGA | C-DAC | [Website](https://vegaprocessors.in/) | RV32, RV64 | 1.10 |  2.2, RV[32/64]IMA[F][D][C], Multi-core | Bluespec | commercial
+NutShell | UCAS & ICT,CAS | [GitHub](https://github.com/OSCPU/NutShell) | RV64 | 1.11 | RV64IMAC | Chisel | Mulan Permissive Software License V2
 
 
 ## SoC platforms
