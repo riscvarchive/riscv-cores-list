@@ -14,7 +14,7 @@ RV32EC_FMP5 | IQonIC Works | [Website](http://iqonicworks.com/risc-v-ip/) | RV32
 rocket | SiFive, UCB Bar| [GitHub](https://github.com/freechipsproject/rocket-chip) | RV32 | 1.11-draft | 2.3-draft | Chisel | BSD
 freedom | SiFive | [GitHub](https://github.com/sifive/freedom) | RV32,RV64 | 1.11-draft | 2.3-draft | Chisel | BSD
 Berkeley Out-of-Order Machine (BOOM) | UCB BAR | [Website](https://boom-core.org/),[GitHub](https://github.com/riscv-boom/riscv-boom) | RV64 | 1.11-draft | 2.3-draft | Chisel | BSD
-RI5CY | ETH Zurich, Università di Bologna | [GitHub](https://github.com/pulp-platform/riscv) | RV32 | |  | RV32IMC | SystemVerilog | Solderpad Hardware License v. 0.51
+RI5CY | ETH Zurich, Università di Bologna | [GitHub](https://github.com/pulp-platform/riscv) | RV32 | | RV32IMC | SystemVerilog | Solderpad Hardware License v. 0.51
 Ibex (formerly Zero-riscy) | lowRISC | [GitHub](https://github.com/lowRISC/ibex) | RV32 | 1.11 | RV32I[M]C/RV32E[M]C | SystemVerilog | Apache 2.0
 Ariane | ETH Zurich, Università di Bologna | [Website](https://pulp-platform.github.io/ariane/docs/home/),[GitHub](https://github.com/pulp-platform/ariane) | RV64 | 1.11-draft | RV64GC | SystemVerilog | Solderpad Hardware License v. 0.51
 Riscy Processors | MIT CSAIL CSG | [Website](http://csg.csail.mit.edu/riscy-e/),[GitHub](https://github.com/csail-csg/riscy) | RV32,RV64 | | | Bluespec | MIT
@@ -91,6 +91,9 @@ Klessydra-T03 | Digital Systems Lab at Sapienza University of Rome | [GitHub](ht
 Klessydra-T02 | Digital Systems Lab at Sapienza University of Rome | [GitHub](https://github.com/klessydra/T02x) | RV32 | 1.11 | RV32I[A] | VHDL-2008 | Solderpad Hardware License v. 0.51
 Klessydra-F03 | Digital Systems Lab at Sapienza University of Rome | [GitHub](https://github.com/klessydra/F03x) | RV32 | 1.11 | RV32I[A] | VHDL-2008 | Solderpad Hardware License v. 0.51
 MYTH Cores | MYTH Workshop students | [GitHub](https://github.com/stevehoover/RISC-V_MYTH_Workshop/blob/master/student_projects.md) | RV32 |  | RV32I | TL-Verilog | BSD
+Starsea_riscv | Starsea | [GitHub](https://github.com/haogwb/starsea_riscv) | RV32 | | RV32I | Verilog | Apache 2.0
+VEGA | C-DAC | [Website](https://vegaprocessors.in/) | RV32, RV64 | 1.10 |  2.2, RV[32/64]IMA[F][D][C], Multi-core | Bluespec | commercial
+
 
 ## SoC platforms
 
@@ -122,6 +125,7 @@ Chipyard | UCB BAR | [GitHub](https://github.com/ucb-bar/chipyard),[Documentatio
 PQSoC | PQShield | [Website](https://pqsoc.com) | RV32 | Pluto | PQShield Commercial License
 KRZ | Sonal Pinto | [GitHub](https://github.com/SonalPinto/kronos) | RV32 | Kronos | Apache 2.0
 IOb-SoC | IObundle | [GitHub](https://github.com/IObundle/iob-soc) | RV32 | PicoRV32 | MIT
+
 
 ## SoCs
 
