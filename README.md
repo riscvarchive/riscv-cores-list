@@ -14,9 +14,9 @@ RV32EC_FMP5 | IQonIC Works | [Website](http://iqonicworks.com/risc-v-ip/) | RV32
 rocket | SiFive, UCB Bar| [GitHub](https://github.com/freechipsproject/rocket-chip) | RV32 | 1.11-draft | 2.3-draft | Chisel | BSD
 freedom | SiFive | [GitHub](https://github.com/sifive/freedom) | RV32,RV64 | 1.11-draft | 2.3-draft | Chisel | BSD
 Berkeley Out-of-Order Machine (BOOM) | UCB BAR | [Website](https://boom-core.org/),[GitHub](https://github.com/riscv-boom/riscv-boom) | RV64 | 1.11-draft | 2.3-draft | Chisel | BSD
-RI5CY | ETH Zurich, Università di Bologna | [GitHub](https://github.com/pulp-platform/riscv) | RV32 | | RV32IMC | SystemVerilog | Solderpad Hardware License v. 0.51
+CV32E40P | OpenHW Group | [GitHub](https://github.com/openhwgroup/cv32e40p) | RV32 | 1.11 | RV32IM[F]C | SystemVerilog | Solderpad Hardware License v. 0.51
 Ibex (formerly Zero-riscy) | lowRISC | [GitHub](https://github.com/lowRISC/ibex) | RV32 | 1.11 | RV32I[M]C/RV32E[M]C | SystemVerilog | Apache 2.0
-Ariane | ETH Zurich, Università di Bologna | [Website](https://pulp-platform.github.io/ariane/docs/home/),[GitHub](https://github.com/pulp-platform/ariane) | RV64 | 1.11-draft | RV64GC | SystemVerilog | Solderpad Hardware License v. 0.51
+CVA6 | OpenHW Group | [GitHub](https://github.com/openhwgroup/cva6) | RV32,RV64 | 1.11 | RV[32/64]GC | SystemVerilog | Solderpad Hardware License v. 0.51
 Riscy Processors | MIT CSAIL CSG | [Website](http://csg.csail.mit.edu/riscy-e/),[GitHub](https://github.com/csail-csg/riscy) | RV32,RV64 | | | Bluespec | MIT
 RiscyOO | MIT CSAIL CSG | [GitHub](https://github.com/csail-csg/riscy-OOO) | RV64 | 1.10 | RV64IMAFD | Bluespec | MIT
 Lizard | Cornell CSL BRG | [GitHub](https://github.com/cornell-brg/lizard) | RV64 | | RV64IM | PyMTL | BSD
