@@ -126,6 +126,7 @@ Chipyard | UCB BAR | [GitHub](https://github.com/ucb-bar/chipyard),[Documentatio
 PQSoC | PQShield | [Website](https://pqsoc.com) | RV32 | Pluto | PQShield Commercial License
 KRZ | Sonal Pinto | [GitHub](https://github.com/SonalPinto/kronos) | RV32 | Kronos | Apache 2.0
 IOb-SoC | IObundle | [GitHub](https://github.com/IObundle/iob-soc) | RV32 | PicoRV32 | MIT
+SweRVolf | CHIPS Alliance | [GitHub](https://github.com/chipsalliance/Cores-SweRVolf) | RV32 | SweRV EH1, SweRV EL2 | Apache 2.0
 
 
 ## SoCs
