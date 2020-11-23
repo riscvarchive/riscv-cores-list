@@ -59,7 +59,7 @@ Taiga | Reconfigurable Computing Lab, Simon Fraser University | [GitLab](https:/
 Maestro | João Chrisóstomo | [GitHub](https://github.com/Artoriuz/maestro) | RV32 |  | RV32I | VHDL | MIT
 XuanTie C910 | T-Head (Alibaba group) | [Website](https://www.t-head.cn/product/c910?spm=a2ouz.12987052.0.0.5c5c6245WIbjoG) | RV64 | 1.10 | RV64GCV + SV39 + ISA Extension + Memory model Extension + multi-core & multi-cluster(16 cores maximum) | Verilog | Alibaba commercial license
 XuanTie C906 | T-Head (Alibaba group) | [Website](https://occ.t-head.cn/vendor/cpu/index?id=3817197695983423488) | RV64 | 1.10 | RV64IMA[FD]C[V] + SV39 + ISA Extension + Memory model Extension | Verilog | Alibaba commercial license
-XuanTie E906 | T-Head (Alibaba group) | [Website](https://occ.t-head.cn/vendor/cpu/index?id=3806463049662468096) | RV32 | 1.10 | RV32IMA[F][D]C[P] + ISA Extension| Verilog | Alibaba commercial license
+XuanTie E906 | T-Head (Alibaba group) | [Website](https://occ.t-head.cn/vendor/cpu/index?id=3806463049662468096) | RV32 | 1.10 | RV32IMA[F][D]C + ISA Extension| Verilog | Alibaba commercial license
 XuanTie E902 | T-Head (Alibaba group) | [Website](https://www.t-head.cn/product/e902?spm=a2ouz.12987052.0.0.5c5c6245R2yhfA) | RV32 | 1.10 | RV32EMC/IMC/EC | Verilog | Alibaba commercial license
 BM-310 | CloudBEAR | [Website](https://cloudbear.ru/bm_310.html) | RV32 | 1.10 | RV32IMC | SystemVerilog | CloudBEAR Commercial License
 BI-350 | CloudBEAR | [Website](https://cloudbear.ru/bi_350.html) | RV32 | 1.10 | RV32IMAFC + multi-core | SystemVerilog | CloudBEAR Commercial License
