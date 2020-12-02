@@ -86,7 +86,7 @@ NX600 | Nuclei | [Website](https://www.nucleisys.com/product.php) | RV32 | 1.11 
 UX600 | Nuclei | [Website](https://www.nucleisys.com/product.php) | RV64 | 1.11 | RV64IMAC(F)(D)(P) + MMU-SV39 | Verilog | Nuclei commercial license
 WH32 | UC Techip | [Website](https://www.uctechip.com/#product) | RV32 | 1.10 | RV32GCX | Chisel | UC Techip Commercial License
 WARP-V | Steve Hoover, Redwood EDA | [GitHub](https://github.com/stevehoover/warp-v) | RV32 |  | RV32I[M][F] | TL-Verilog | BSD
-NEORV32 | Stephan Nolting | [GitHub](https://github.com/stnolting/neorv32) | RV32 | 1.12-draft | 2.2, RV32[I/E][M][C] | VHDL | BSD
+NEORV32 | Stephan Nolting | [GitHub](https://github.com/stnolting/neorv32) | RV32 | 1.12-draft | 2.2, RV32[I/E][M][A][C][Zicsr][Zifencei] | VHDL | BSD
 Steel | Rafael Calcada | [GitHub](https://github.com/rafaelcalcada/steel-core) | RV32 | 1.11 | RV32IZicsr | Verilog | MIT License
 Klessydra-T13 | Digital Systems Lab at Sapienza University of Rome | [GitHub](https://github.com/klessydra/T13x) | RV32 | 1.11 | RV32[I/E][M][A] + Kless-Vect | VHDL-2008 | Solderpad Hardware License v. 0.51
 Klessydra-T03 | Digital Systems Lab at Sapienza University of Rome | [GitHub](https://github.com/klessydra/T03x) | RV32 | 1.11 | RV32I[A] | VHDL-2008 | Solderpad Hardware License v. 0.51
@@ -130,7 +130,7 @@ KRZ | Sonal Pinto | [GitHub](https://github.com/SonalPinto/kronos) | RV32 | Kron
 IOb-SoC | IObundle | [GitHub](https://github.com/IObundle/iob-soc) | RV32 | PicoRV32 | MIT
 SweRVolf | CHIPS Alliance | [GitHub](https://github.com/chipsalliance/Cores-SweRVolf) | RV32 | SweRV EH1, SweRV EL2 | Apache 2.0
 Servant | Olof Kindgren | [GitHub](https://github.com/olofk/serv) | RV32 | SERV | ISC
-
+NEORV32 Processor | Stephan Nolting | [GitHub](https://github.com/stnolting/neorv32) | RV32 | NEORV32 | BSD
 
 ## SoCs
 
