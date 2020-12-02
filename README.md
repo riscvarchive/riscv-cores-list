@@ -129,8 +129,8 @@ PQSoC | PQShield | [Website](https://pqsoc.com) | RV32 | Pluto | PQShield Commer
 KRZ | Sonal Pinto | [GitHub](https://github.com/SonalPinto/kronos) | RV32 | Kronos | Apache 2.0
 IOb-SoC | IObundle | [GitHub](https://github.com/IObundle/iob-soc) | RV32 | PicoRV32 | MIT
 SweRVolf | CHIPS Alliance | [GitHub](https://github.com/chipsalliance/Cores-SweRVolf) | RV32 | SweRV EH1, SweRV EL2 | Apache 2.0
+Servant | Olof Kindgren | [GitHub](https://github.com/olofk/serv) | RV32 | SERV | ISC
 NEORV32 Processor | Stephan Nolting | [GitHub](https://github.com/stnolting/neorv32) | RV32 | NEORV32 | BSD
-
 
 ## SoCs
 
