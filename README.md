@@ -96,6 +96,7 @@ MYTH Cores | MYTH Workshop students | [GitHub](https://github.com/stevehoover/RI
 Starsea_riscv | Starsea | [GitHub](https://github.com/haogwb/starsea_riscv) | RV32 | | RV32I | Verilog | Apache 2.0
 VEGA | C-DAC | [Website](https://vegaprocessors.in/) | RV32, RV64 | 1.10 |  2.2, RV[32/64]IMA[F][D][C], Multi-core | Bluespec | commercial
 NutShell | UCAS & ICT,CAS | [GitHub](https://github.com/OSCPU/NutShell) | RV64 | 1.11 | RV64IMAC | Chisel | Mulan Permissive Software License V2
+NOEL-V | Cobham Gaisler | [Website](https://www.gaisler.com/NOEL-V) | RV32,RV64 | 1.11 | RV32GC,RV64GC | VHDL | GPL, Commercial
 
 
 ## SoC platforms
@@ -131,6 +132,7 @@ IOb-SoC | IObundle | [GitHub](https://github.com/IObundle/iob-soc) | RV32 | Pico
 SweRVolf | CHIPS Alliance | [GitHub](https://github.com/chipsalliance/Cores-SweRVolf) | RV32 | SweRV EH1, SweRV EL2 | Apache 2.0
 Servant | Olof Kindgren | [GitHub](https://github.com/olofk/serv) | RV32 | SERV | ISC
 NEORV32 Processor | Stephan Nolting | [GitHub](https://github.com/stnolting/neorv32) | RV32 | NEORV32 | BSD
+GRLIB | Cobham Gaisler | [Website](https://www.gaisler.com/getgrlib) | RV32,RV64 | NOEL-V | GPL, Commercial
 
 ## SoCs
 
