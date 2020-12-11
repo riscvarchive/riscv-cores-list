@@ -40,9 +40,14 @@ SweRV EL2 | Western Digital Corporation | [GitHub](https://github.com/chipsallia
 SweRV EH2 | Western Digital Corporation | [GitHub](https://github.com/chipsalliance/Cores-SweRV-EH2) | RV32 | 1.11 | 2.1, RV32IMAC | SystemVerilog | Apache 2.0
 biRISC-V | UltraEmbedded | [GitHub](https://github.com/ultraembedded/biriscv) | RV32 | 1.11 | RV32I[M] | Verilog | Apache 2.0
 Reve-R | Gavin Stark | [GitHub](https://github.com/atthecodeface/cdl_hardware) | RV32 | 1.10 | RV32IMAC | CDL | Apache 2.0
-Bk3 | Codasip | [Website](http://www.codasip.com) | RV32 | 1.10 | RV32EMC / RV32IM[F]C | Verilog | Codasip EULA
-Bk5 | Codasip | [Website](http://www.codasip.com) | RV32 |1.10 | RV32IM[F]C / RV64IM[F]C | Verilog | Codasip EULA
-Bk7 | Codasip | [Website](http://www.codasip.com) | RV64 | 1.10 | RV64IMA[F][D][C] | Verilog | Codasip EULA
+L10 | Codasip | [Website](https://codasip.com/risc-v-processors) | RV32 | 1.0 | RV32EMC | Verilog | Codasip EULA
+L30 | Codasip | [Website](https://codasip.com/risc-v-processors) | RV32 | 1.0 | RV32IMC | Verilog | Codasip EULA
+L30F | Codasip | [Website](https://codasip.com/risc-v-processors) | RV32 | 1.0 | RV32IMFC | Verilog | Codasip EULA
+L50 | Codasip | [Website](https://codasip.com/risc-v-processors) | RV32 | 1.0 | RV32IMC | Verilog | Codasip EULA
+L50F | Codasip | [Website](https://codasip.com/risc-v-processors) | RV32 | 1.0 | RV32IMFC | Verilog | Codasip EULA
+H50X | Codasip | [Website](https://codasip.com/risc-v-processors) | RV64 | 1.0 | RV64IMC | Verilog | Codasip EULA
+H50XF | Codasip | [Website](https://codasip.com/risc-v-processors) | RV64 | 1.0 | RV64IMFDC | Verilog | Codasip EULA
+A70X | Codasip | [Website](https://codasip.com/risc-v-processors) | RV64 | 1.0 | RV64IMAFDC | Verilog | Codasip EULA
 DarkRISCV | Darklife | [GitHub](https://github.com/darklife/darkriscv) | RV32 | | most of RV32I | Verilog | BSD
 RPU | Domipheus Labs | [GitHub](https://github.com/Domipheus/RPU) | RV32 | | RV32I | VHDL | Apache 2.0
 RV01 | Stefano Tonello | [OpenCores](https://opencores.org/projects/rv01_riscv_core) | RV32 | 1.7 | 2.1, RV32IM | VHDL | LPGL
