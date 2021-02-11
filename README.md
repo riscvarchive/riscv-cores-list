@@ -54,11 +54,21 @@ RV01 | Stefano Tonello | [OpenCores](https://opencores.org/projects/rv01_riscv_c
 N22 | Andes | [Website](http://freestart.andestech.com/) | RV32 | 1.11 | RV32IMAC/EMAC + Andes V5/V5e ext. | Verilog | Andes FreeStart IPEA
 N25F | Andes | [Website](http://www.andestech.com/en/products-solutions/andescore-processors/riscv-n25f/) | RV32 | 1.11 | RV32GC + Andes V5 ext. | Verilog | Andes Commercial License
 D25F | Andes | [Website](http://www.andestech.com/en/products-solutions/andescore-processors/riscv-d25f/) | RV32 | 1.11 | RV32GCP + Andes V5 ext. | Verilog | Andes Commercial License
-A25 | Andes | [Website](http://www.andestech.com/en/products-solutions/andescore-processors/riscv-a25/) | RV32 | 1.11 | RV32GCP + SV32 + Andes V5 ext. | Verilog | Andes Commercial License
-A25MP | Andes | [Website](http://www.andestech.com/en/products-solutions/andescore-processors/riscv-a25mp/) | RV32 | 1.11 | RV32GCP + SV32 + Andes V5 ext. + Multi-core | Verilog | Andes Commercial License
+A25 | Andes | [Website](http://www.andestech.com/en/products-solutions/andescore-processors/riscv-a25/) | RV32 | 1.11 | RV32GCP + Sv32 + Andes V5 ext. | Verilog | Andes Commercial License
+A25MP | Andes | [Website](http://www.andestech.com/en/products-solutions/andescore-processors/riscv-a25mp/) | RV32 | 1.11 | RV32GCP + Sv32 + Andes V5 ext. + Multi-core | Verilog | Andes Commercial License
 NX25F | Andes | [Website](http://www.andestech.com/en/products-solutions/andescore-processors/riscv-nx25f/) | RV64 | 1.11 | RV64GC + Andes V5 ext. | Verilog | Andes Commercial License
-AX25 | Andes | [Website](http://www.andestech.com/en/products-solutions/andescore-processors/riscv-ax25/) | RV64 | 1.11 | RV64GCP + SV39/48 + Andes V5 ext. | Verilog | Andes Commercial License
-AX25MP | Andes | [Website](http://www.andestech.com/en/products-solutions/andescore-processors/riscv-ax25mp/) | RV64 | 1.11 | RV64GCP + SV39/48 + Andes V5 ext. + Multi-core | Verilog | Andes Commercial License
+AX25 | Andes | [Website](http://www.andestech.com/en/products-solutions/andescore-processors/riscv-ax25/) | RV64 | 1.11 | RV64GCP + Sv39/48 + Andes V5 ext. | Verilog | Andes Commercial License
+AX25MP | Andes | [Website](http://www.andestech.com/en/products-solutions/andescore-processors/riscv-ax25mp/) | RV64 | 1.11 | RV64GCP + Sv39/48 + Andes V5 ext. + Multi-core | Verilog | Andes Commercial License
+A27 | Andes | [Website](http://www.andestech.com/en/products-solutions/andescore-processors/riscv-a27/) | RV32 | 1.11 | RV32GCP + Sv32 + Andes V5 ext. | Verilog | Andes Commercial License
+A27L2 | Andes | [Website](http://www.andestech.com/en/products-solutions/andescore-processors/riscv-ax27l2/) | RV32 | 1.11 | RV32GCP + Sv39/48 + Andes V5 ext. | Verilog | Andes Commercial License
+AX27 | Andes | [Website](http://www.andestech.com/en/products-solutions/andescore-processors/riscv-ax27/) | RV64 | 1.11 | RV64GCP + Sv39/48 + Andes V5 ext. | Verilog | Andes Commercial License
+AX27L2 | Andes | [Website](http://www.andestech.com/en/products-solutions/andescore-processors/riscv-ax27l2/) | RV64 | 1.11 | RV64GCP + Sv39/48 + Andes V5 ext. | Verilog | Andes Commercial License
+NX27V | Andes | [Website](http://www.andestech.com/en/products-solutions/andescore-processors/riscv-nx27v/) | RV64 | 1.11 | RV64GCPV | Verilog | Andes Commercial License
+N45 | Andes | [Website](http://www.andestech.com/en/products-solutions/andescore-processors/riscv-n45/) | RV32 | 1.11 | RV32GC + Andes V5 ext. | Verilog | Andes Commercial License
+D45 | Andes | [Website](http://www.andestech.com/en/products-solutions/andescore-processors/riscv-d45/) | RV32 | 1.11 | RV32GCP + Andes V5 ext. | Verilog | Andes Commercial License
+NX45 | Andes | [Website](http://whttp/www.andestech.com/en/products-solutions/andescore-processors/riscv-nx45/) | RV64 | 1.11 | RV64GC + Andes V5 ext. | Verilog | Andes Commercial License
+A45 | Andes | [Website](http://www.andestech.com/en/products-solutions/andescore-processors/riscv-a45/) | RV32 | 1.11 | RV32GCP + Sv32 + Andes V5 ext. | Verilog | Andes Commercial License
+AX45| Andes | [Website](http://www.andestech.com/en/products-solutions/andescore-processors/riscv-ax45/) | RV64 | 1.11 | RV64GCP + Sv39/48 + Andes V5 ext. | Verilog | Andes Commercial License
 Instant SoC | FPGA Cores | [Website](http://www.fpga-cores.com/instant-soc/) | RV32 |  | RV32IM | VHDL | Free Non Commercial
 Taiga | Reconfigurable Computing Lab, Simon Fraser University | [GitLab](https://gitlab.com/sfu-rcl/Taiga) | RV32 |  | RV32IMA | SystemVerilog | Apache 2.0
 Maestro | João Chrisóstomo | [GitHub](https://github.com/Artoriuz/maestro) | RV32 |  | RV32I | VHDL | MIT
@@ -127,7 +137,7 @@ MIV RV32IMAF L1 AHB | Microchip | [Documentation](http://www.microsemi.com/index
 MIV RV32IMC | Microchip | [Documentation](https://www.microsemi.com/document-portal/doc_download/1244850-mi-vrv32imc), [IDE](https://www.microsemi.com/product-directory/design-tools/4879-softconsole), [Development Environment](https://www.microsemi.com/product-directory/design-resources/1750-libero-soc) | RV32 | Submicron RV32I, RV32IC, RV32IM, RV32IMC | Apache 2.0
 FreeStart AE250 | Andes | [Website](http://freestart.andestech.com/) | RV32 | N22 | Andes FreeStart: Free for Evaluation
 Standard AE250 | Andes | [Website](http://www.andestech.com/en/products-solutions/andeshape-platforms/ae250-ahb-based-platform-pre-integrated-with-n22/), [IDE](http://www.andestech.com/en/products-solutions/andesight-ide/) | RV32 | N22 | Andes Commerical License
-AE350 | Andes | [Website](http://www.andestech.com/en/products-solutions/andeshape-platforms/ae350-axi-based-platform-pre-integrated-with-n25f-nx25f-a25-ax25/), [IDE](http://www.andestech.com/en/products-solutions/andesight-ide/) | RV64 | N25F, D25F, A25, A25MP, NX25F, AX25, AX25MP | Andes Commerical License
+AE350 | Andes | [Website](http://www.andestech.com/en/products-solutions/andeshape-platforms/ae350-axi-based-platform-pre-integrated-with-n25f-nx25f-a25-ax25/), [IDE](http://www.andestech.com/en/products-solutions/andesight-ide/) | RV32,RV64 | N25F, D25F, A25, A25MP, NX25, AX25, AX25MP, A27, A27L2, AX27, AX27L2, N45, D45, A45, NX45, AX45 | Andes Commerical License
 SCR1 SDK | Syntacore | [GitHub](https://github.com/syntacore/scr1-sdk) | RV32 | SCR1, SCRx | SHL 2.0
 ESP | SLD Group, Columbia University | [Website](https://esp.cs.columbia.edu), [GitHub](https://github.com/sld-columbia/esp) | RV64 | Ariane | Apache 2.0
 Chipyard | UCB BAR | [GitHub](https://github.com/ucb-bar/chipyard),[Documentation](https://chipyard.readthedocs.io/en/latest/) | RV64 | Rocket, BOOM | BSD
