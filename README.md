@@ -148,6 +148,7 @@ SweRVolf | CHIPS Alliance | [GitHub](https://github.com/chipsalliance/Cores-SweR
 Servant | Olof Kindgren | [GitHub](https://github.com/olofk/serv) | RV32 | SERV | ISC
 NEORV32 Processor | Stephan Nolting | [GitHub](https://github.com/stnolting/neorv32) | RV32 | NEORV32 | BSD
 GRLIB | Cobham Gaisler | [Website](https://www.gaisler.com/getgrlib) | RV32,RV64 | NOEL-V | GPL, Commercial
+LiteX | Enjoy Digital | [Website](http://www.enjoy-digital.fr/), [GitHub](https://github.com/enjoy-digital/litex/) | RV32,RV64 | BlackParrot, CV32E40P, Minerva, PicoRV32, Rocket, SERV, VexRiscv (SMP supported with VexRiscv) | BSD
 
 ## SoCs
 
