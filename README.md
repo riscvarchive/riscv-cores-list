@@ -8,6 +8,8 @@ Please add to the list and fix inaccuracies - see our [CONTRIBUTING file](https:
 
 Name | Supplier | Links | Capability | Priv. spec | User spec | Primary Language | License
 ---- | -------- | ----- | ---------- | ---------- | --------- | ---------------- | -------
+Avispado  | SemiDynamics | [Website](https://semidynamics.com/products/avispado) | RV64 | 1.10 | RV64GC, 2.2, multicore, V-ready | SystemVerilog | Commercial License
+Atrevido  | SemiDynamics | [Website](https://semidynamics.com/products/atrevido) | RV64 | 1.10 | RV64GC, 2.2, multicore, V-ready | SystemVerilog | Commercial License
 RV32EC_P2 | IQonIC Works | [Website](http://iqonicworks.com/risc-v-ip/) | RV32 | 1.11 | RV32E[M]C/RV32I[M]C | SystemVerilog | IQonIC Works Commercial License
 RV32IC_P5 | IQonIC Works | [Website](http://iqonicworks.com/risc-v-ip/) | RV32 | 1.11 | RV32I[M][N][A]C | SystemVerilog | IQonIC Works Commercial License
 RV32EC_FMP5 | IQonIC Works | [Website](http://iqonicworks.com/risc-v-ip/) | RV32 | Custom | RV32EC | SystemVerilog | IQonIC Works Commercial License
