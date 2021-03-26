@@ -22,7 +22,7 @@ RiscyOO | MIT CSAIL CSG | [GitHub](https://github.com/csail-csg/riscy-OOO) | RV6
 Lizard | Cornell CSL BRG | [GitHub](https://github.com/cornell-brg/lizard) | RV64 | | RV64IM | PyMTL | BSD
 Minerva | LambdaConcept | [GitHub](https://github.com/lambdaconcept/minerva) | RV32 | 1.10 | RV32I | nMigen | BSD
 OPenV/mriscv | OnChipUIS | [GitHub](https://github.com/onchipuis/mriscv) | RV32 | | RV32I(?) | Verilog | MIT
-VexRiscv | SpinalHDL | [GitHub](https://github.com/SpinalHDL/VexRiscv) | RV32 | 1.10 | RV32I/E[M][A][C] | SpinalHDL | MIT
+VexRiscv | SpinalHDL | [GitHub](https://github.com/SpinalHDL/VexRiscv) | RV32 | 1.10 | RV32I/E[M][A][F[D]][C] | SpinalHDL | MIT
 VexRiscv Plugins for B and K | Romain Dolbeau | [GitHub](https://github.com/rdolbeau/VexRiscvBPluginGenerator/) | RV32 | N/A | RV32[B][K] for the VexRiscV core | SpinalHDL | MIT
 Roa Logic RV12 | Roa Logic | [GitHub](https://github.com/roalogic/RV12) | RV32 | 1.9.1 | 2.1 | SystemVerilog | Non-Commercial License
 SCR1 | Syntacore | [GitHub](https://github.com/syntacore/scr1) | RV32 | 1.10 | 2.2, RV32I/E[MC] | SystemVerilog | SHL v. 2.0
