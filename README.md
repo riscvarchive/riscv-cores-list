@@ -1,3 +1,5 @@
+# THIS PAGE IS NOW ARCHIVED - to make any additions or changes, please send email to content@riscv.org
+
 # RISC-V Cores and SoC Overview
 
 This document captures the status of various cores and SoCs that endeavor to implement the RISC-V specification. Note that none of these cores/SoCs have passed the in-development RISC-V compliance suite.
